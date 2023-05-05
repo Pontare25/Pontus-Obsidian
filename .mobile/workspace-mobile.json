@@ -17,7 +17,50 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "692135e35950e750"
+          }
+        ]
+      },
+      {
+        "id": "67ee0f17c8bd912f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0110f97e9480026f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Periodic notes/Daily notes/2023-05-05.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 3.107712577074462,
+                  "close": false
+                }
+              }
+            },
+            "group": "692135e35950e750"
           }
         ]
       }
@@ -141,15 +184,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ef36a4a839738f35",
+  "active": "b860df7dc9f40a6b",
   "lastOpenFiles": [
+    "Templates/Meeting template.md",
+    "Templates/Daily note template.md",
     "Periodic notes/Daily notes/2023-05-05.md",
     "2023-05-05.md",
-    "Templates/Daily note template.md",
     "Periodic notes/Weekly notes",
     "Periodic notes/Daily notes",
     "Periodic notes",
-    "Templates/Meeting template.md",
     "Untitled Kanban.md",
     "Meetings/Test meeting.md",
     "Untitled.md"

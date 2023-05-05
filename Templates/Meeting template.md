@@ -1,6 +1,7 @@
 ---
-Created-date: <% "YYYY-MM-DD" %>
+Created-date: <% tp.date.now("YYYY-MM-DD") %>
 Type: meeting
+Meeting-category: 
 ---
 Summary::
 Previous-meeting:: 
