@@ -13,14 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic notes/Daily notes/2023-05-05.md",
+                "file": "Meetings/Test meeting.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "692135e35950e750"
+          },
+          {
+            "id": "aacdb0ebac66a5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meeting dataview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "67ee0f17c8bd912f",
@@ -32,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Periodic notes/Daily notes/2023-05-05.md",
+                "file": "Meetings/Test meeting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-05.md",
+            "file": "Meeting dataview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-05.md",
+            "file": "Meeting dataview.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-05.md"
+            "file": "Meeting dataview.md"
           }
         }
       },
@@ -184,17 +197,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b860df7dc9f40a6b",
+  "active": "aacdb0ebac66a5a4",
   "lastOpenFiles": [
+    "Meetings/Test meeting.md",
+    "Meeting dataview.md",
+    "Periodic notes/Daily notes/2023-05-05.md",
     "Templates/Meeting template.md",
     "Templates/Daily note template.md",
-    "Periodic notes/Daily notes/2023-05-05.md",
     "2023-05-05.md",
     "Periodic notes/Weekly notes",
     "Periodic notes/Daily notes",
     "Periodic notes",
-    "Untitled Kanban.md",
-    "Meetings/Test meeting.md",
-    "Untitled.md"
+    "Untitled Kanban.md"
   ]
 }
