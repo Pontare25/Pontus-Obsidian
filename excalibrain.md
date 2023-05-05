@@ -12,17 +12,17 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-2023-05-05 ^eFH4qLvS
+Todo ^esuDGDhA
 
-1 ^FPkNIhAF
+1 ^1gc3IbNq
 
-Daily note template ^g23KsL5Q
+Kanban ^aXg0uML6
 
-1 ^CbkAUEHt
+1 ^lrEAU9VO
 
-[[Periodic notes/Daily notes/2023-05-05.md]] ^tmWiJc3j
+[[Dashboard/Todo.md]] ^0Rp1B3fx
 
-[[Templates/Daily note template.md]] ^YsEeJFTM
+[[Dashboard/Kanban.md]] ^KrinEOwi
 
 %%
 # Drawing
@@ -45,18 +45,18 @@ Daily note template ^g23KsL5Q
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "CiRgS30Z",
+				"elementId": "wdxoXN9h",
 				"focus": -3.925970246231275e-17,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "ua3UmUaR",
+				"elementId": "tl03V8uX",
 				"focus": -3.925970246231275e-17,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "EaOskmBw",
+			"id": "jsICOldV",
 			"type": "arrow",
 			"x": 13.341403184548332,
 			"y": -2.154150317591103,
@@ -73,10 +73,10 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 79910,
+			"seed": 3775,
 			"version": 1,
-			"versionNonce": 495666318,
-			"updated": 1683318358584,
+			"versionNonce": 442903393,
+			"updated": 1683323481757,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -84,11 +84,11 @@ Daily note template ^g23KsL5Q
 			"locked": false
 		},
 		{
-			"id": "tmWiJc3j",
+			"id": "0Rp1B3fx",
 			"type": "rectangle",
-			"x": -97.890625,
+			"x": -45.15625,
 			"y": -72,
-			"width": 195.78125,
+			"width": 90.3125,
 			"height": 56,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -101,35 +101,35 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 27482,
+			"seed": 30325,
 			"version": 1,
-			"versionNonce": 888447322,
-			"updated": 1683318358582,
+			"versionNonce": 451350335,
+			"updated": 1683323481756,
 			"isDeleted": false,
 			"groupIds": [
-				"Y4PyPyXC"
+				"HYMvtCzM"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "eFH4qLvS"
+					"id": "esuDGDhA"
 				}
 			],
-			"link": "[[Periodic notes/Daily notes/2023-05-05.md]]",
+			"link": "[[Dashboard/Todo.md]]",
 			"locked": false
 		},
 		{
-			"text": "2023-05-05",
+			"text": "Todo",
 			"fontSize": 30,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 28,
-			"id": "eFH4qLvS",
+			"id": "esuDGDhA",
 			"type": "text",
-			"x": -87.890625,
+			"x": -35.15625,
 			"y": -62,
-			"width": 175.78125,
+			"width": 70.3125,
 			"height": 36,
 			"angle": 0,
 			"strokeColor": "#000000ff",
@@ -142,26 +142,26 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 4763,
+			"seed": 2192,
 			"version": 1,
-			"versionNonce": 112930729,
-			"updated": 1683318358582,
+			"versionNonce": 475072256,
+			"updated": 1683323481756,
 			"isDeleted": false,
 			"groupIds": [
-				"Y4PyPyXC"
+				"HYMvtCzM"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "tmWiJc3j",
-			"originalText": "2023-05-05",
-			"rawText": "2023-05-05",
+			"containerId": "0Rp1B3fx",
+			"originalText": "Todo",
+			"rawText": "Todo",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "kdyUhHhA",
+			"id": "jWtybfkm",
 			"type": "ellipse",
-			"x": -107.890625,
+			"x": -55.15625,
 			"y": -49,
 			"width": 10,
 			"height": 10,
@@ -176,20 +176,20 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 64235,
+			"seed": 54805,
 			"version": 1,
-			"versionNonce": 155970197,
-			"updated": 1683318358582,
+			"versionNonce": 351612648,
+			"updated": 1683323481756,
 			"isDeleted": false,
 			"groupIds": [
-				"Y4PyPyXC"
+				"HYMvtCzM"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "4uwKf909",
+			"id": "0B80HHLm",
 			"type": "ellipse",
 			"x": -20,
 			"y": -82,
@@ -206,20 +206,20 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 79531,
+			"seed": 98658,
 			"version": 1,
-			"versionNonce": 392770326,
-			"updated": 1683318358582,
+			"versionNonce": 772132832,
+			"updated": 1683323481756,
 			"isDeleted": false,
 			"groupIds": [
-				"Y4PyPyXC"
+				"HYMvtCzM"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "CiRgS30Z",
+			"id": "wdxoXN9h",
 			"type": "ellipse",
 			"x": 10,
 			"y": -16,
@@ -236,18 +236,18 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 79681,
+			"seed": 33934,
 			"version": 1,
-			"versionNonce": 95758711,
-			"updated": 1683318358582,
+			"versionNonce": 767932566,
+			"updated": 1683323481756,
 			"isDeleted": false,
 			"groupIds": [
-				"Y4PyPyXC"
+				"HYMvtCzM"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "EaOskmBw"
+					"id": "jsICOldV"
 				}
 			],
 			"link": null,
@@ -260,7 +260,7 @@ Daily note template ^g23KsL5Q
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 9,
-			"id": "FPkNIhAF",
+			"id": "1gc3IbNq",
 			"type": "text",
 			"x": 25,
 			"y": -16,
@@ -277,10 +277,10 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 89727,
+			"seed": 42357,
 			"version": 1,
-			"versionNonce": 238515682,
-			"updated": 1683318358582,
+			"versionNonce": 423033424,
+			"updated": 1683323481756,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -292,11 +292,11 @@ Daily note template ^g23KsL5Q
 			"lineHeight": 1.2
 		},
 		{
-			"id": "YsEeJFTM",
+			"id": "KrinEOwi",
 			"type": "rectangle",
-			"x": -121.328125,
+			"x": -45.15625,
 			"y": 154,
-			"width": 242.65625,
+			"width": 90.3125,
 			"height": 44,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -309,35 +309,35 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 36158,
+			"seed": 6846,
 			"version": 1,
-			"versionNonce": 18426389,
-			"updated": 1683318358583,
+			"versionNonce": 90444126,
+			"updated": 1683323481757,
 			"isDeleted": false,
 			"groupIds": [
-				"5ksI9dLV"
+				"ExGboPgG"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "g23KsL5Q"
+					"id": "aXg0uML6"
 				}
 			],
-			"link": "[[Templates/Daily note template.md]]",
+			"link": "[[Dashboard/Kanban.md]]",
 			"locked": false
 		},
 		{
-			"text": "Daily note template",
+			"text": "Kanban",
 			"fontSize": 20,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 19,
-			"id": "g23KsL5Q",
+			"id": "aXg0uML6",
 			"type": "text",
-			"x": -111.328125,
+			"x": -35.15625,
 			"y": 164,
-			"width": 222.65625,
+			"width": 70.3125,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#95c7f3ff",
@@ -350,26 +350,26 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 73463,
+			"seed": 1590,
 			"version": 1,
-			"versionNonce": 944212947,
-			"updated": 1683318358583,
+			"versionNonce": 251433167,
+			"updated": 1683323481757,
 			"isDeleted": false,
 			"groupIds": [
-				"5ksI9dLV"
+				"ExGboPgG"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "YsEeJFTM",
-			"originalText": "Daily note template",
-			"rawText": "Daily note template",
+			"containerId": "KrinEOwi",
+			"originalText": "Kanban",
+			"rawText": "Kanban",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "KBkyAtNh",
+			"id": "jlRXTOfK",
 			"type": "ellipse",
-			"x": -131.328125,
+			"x": -55.15625,
 			"y": 171,
 			"width": 10,
 			"height": 10,
@@ -384,20 +384,20 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1785,
+			"seed": 35051,
 			"version": 1,
-			"versionNonce": 603816597,
-			"updated": 1683318358583,
+			"versionNonce": 13920299,
+			"updated": 1683323481757,
 			"isDeleted": false,
 			"groupIds": [
-				"5ksI9dLV"
+				"ExGboPgG"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "ua3UmUaR",
+			"id": "tl03V8uX",
 			"type": "ellipse",
 			"x": -20,
 			"y": 144,
@@ -414,18 +414,18 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 42362,
+			"seed": 25030,
 			"version": 1,
-			"versionNonce": 589807940,
-			"updated": 1683318358583,
+			"versionNonce": 557012713,
+			"updated": 1683323481757,
 			"isDeleted": false,
 			"groupIds": [
-				"5ksI9dLV"
+				"ExGboPgG"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "EaOskmBw"
+					"id": "jsICOldV"
 				}
 			],
 			"link": null,
@@ -438,7 +438,7 @@ Daily note template ^g23KsL5Q
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 9,
-			"id": "CbkAUEHt",
+			"id": "lrEAU9VO",
 			"type": "text",
 			"x": -5,
 			"y": 144,
@@ -455,10 +455,10 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 90352,
+			"seed": 68869,
 			"version": 1,
-			"versionNonce": 681134999,
-			"updated": 1683318358583,
+			"versionNonce": 435357496,
+			"updated": 1683323481757,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -470,7 +470,7 @@ Daily note template ^g23KsL5Q
 			"lineHeight": 1.2
 		},
 		{
-			"id": "zOCPw5F2",
+			"id": "MP8OT5Bx",
 			"type": "ellipse",
 			"x": 10,
 			"y": 198,
@@ -487,13 +487,13 @@ Daily note template ^g23KsL5Q
 			"roundness": {
 				"type": 3
 			},
-			"seed": 5390,
+			"seed": 48452,
 			"version": 1,
-			"versionNonce": 294445635,
-			"updated": 1683318358583,
+			"versionNonce": 50358140,
+			"updated": 1683323481757,
 			"isDeleted": false,
 			"groupIds": [
-				"5ksI9dLV"
+				"ExGboPgG"
 			],
 			"boundElements": [],
 			"link": null,
@@ -515,10 +515,10 @@ Daily note template ^g23KsL5Q
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 138.75,
-		"scrollY": 169.8125,
+		"scrollX": 326.44752883878317,
+		"scrollY": 464.6898272262466,
 		"zoom": {
-			"value": 1.6
+			"value": 0.6886776825061558
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

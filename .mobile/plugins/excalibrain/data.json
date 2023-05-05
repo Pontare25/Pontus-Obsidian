@@ -135,7 +135,8 @@
   "hierarchyLinkStyles": {},
   "navigationHistory": [
     "Templates/Meeting template.md",
-    "Periodic notes/Daily notes/2023-05-05.md"
+    "Periodic notes/Daily notes/2023-05-05.md",
+    "Dashboard/Todo.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

@@ -65,9 +65,39 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bba9c0e0c804dfcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Periodic notes/Daily notes/2023-05-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "0a80041f9e186d55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06db4067dbff6207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       },
       {
         "id": "67ee0f17c8bd912f",
@@ -175,7 +205,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard/Todo.md",
+            "file": "Periodic notes/Daily notes/2023-05-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -192,7 +222,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard/Todo.md",
+            "file": "Periodic notes/Daily notes/2023-05-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -204,7 +234,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard/Todo.md"
+            "file": "Periodic notes/Daily notes/2023-05-05.md"
           }
         }
       },
@@ -240,14 +270,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f09d1f735e6b56e5",
+  "active": "bba9c0e0c804dfcc",
   "lastOpenFiles": [
-    "Dashboard/Todo.md",
     "Dashboard/Kanban.md",
+    "excalibrain.md",
+    "Dashboard/Todo.md",
     "Dashboard",
     "Meetings/Meeting dataview.md",
     "Meetings/Test meeting.md",
-    "excalibrain.md",
     "Periodic notes/Daily notes/2023-05-05.md",
     "Templates/Meeting template.md",
     "Excel",

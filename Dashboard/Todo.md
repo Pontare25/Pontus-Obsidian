@@ -1,3 +1,5 @@
+[[Kanban]]
+
 ```dataview
 Task
 From !"Templates"
