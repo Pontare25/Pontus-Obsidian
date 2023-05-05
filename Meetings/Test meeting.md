@@ -6,7 +6,22 @@ Summary::
 Previous-meeting:: 
 Participants:: 
 # Agenda
-This is some agenda
+This is some agenda---
+Created-date: YYYY-MM-DD
+Type: meeting
+---
+Summary::
+Previous-meeting:: 
+Participants:: 
+# Agenda
+
+
+# Notes
+
+# Action items
+- [ ] 
+
+
 
 # Notes
 

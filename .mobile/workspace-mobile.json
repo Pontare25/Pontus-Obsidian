@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "bb663800a89ec31d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d73bc6ddf1b9380",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b860df7dc9f40a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Periodic notes/Daily notes/2023-05-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9866ef92fdcd3ea8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef36a4a839738f35",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "229224d50a682eea",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1e252be376ffee4c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c490dbd7c037eaf5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b05962e691d58708",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "58142038f26af573",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Periodic notes/Daily notes/2023-05-05.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ca49d12f72524103",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Periodic notes/Daily notes/2023-05-05.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ed979c748928633b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Periodic notes/Daily notes/2023-05-05.md"
+          }
+        }
+      },
+      {
+        "id": "170aff52d5ecdf06",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ef36a4a839738f35",
+  "lastOpenFiles": [
+    "Periodic notes/Daily notes/2023-05-05.md",
+    "2023-05-05.md",
+    "Templates/Daily note template.md",
+    "Periodic notes/Weekly notes",
+    "Periodic notes/Daily notes",
+    "Periodic notes",
+    "Templates/Meeting template.md",
+    "Untitled Kanban.md",
+    "Meetings/Test meeting.md",
+    "Untitled.md"
+  ]
+}
