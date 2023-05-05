@@ -26,14 +26,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting dataview.md",
+                "file": "Templates/Meeting template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b6a9dbcf4c151e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Periodic notes/Daily notes/2023-05-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "875bd9b1ce8dfa2f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Dashboard/Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "f09d1f735e6b56e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "67ee0f17c8bd912f",
@@ -141,7 +175,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Meeting dataview.md",
+            "file": "Dashboard/Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,7 +192,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Meeting dataview.md",
+            "file": "Dashboard/Todo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -170,7 +204,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Meeting dataview.md"
+            "file": "Dashboard/Todo.md"
           }
         }
       },
@@ -179,6 +213,14 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "1254aa146686df04",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
           "state": {}
         }
       }
@@ -194,20 +236,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aacdb0ebac66a5a4",
+  "active": "f09d1f735e6b56e5",
   "lastOpenFiles": [
+    "Dashboard/Todo.md",
+    "Dashboard/Kanban.md",
+    "Dashboard",
+    "Meetings/Meeting dataview.md",
     "Meetings/Test meeting.md",
-    "Meeting dataview.md",
+    "excalibrain.md",
     "Periodic notes/Daily notes/2023-05-05.md",
     "Templates/Meeting template.md",
+    "Excel",
     "Templates/Daily note template.md",
     "2023-05-05.md",
     "Periodic notes/Weekly notes",
     "Periodic notes/Daily notes",
-    "Periodic notes",
-    "Untitled Kanban.md"
+    "Periodic notes"
   ]
 }
