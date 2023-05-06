@@ -14,7 +14,7 @@ Cover: https://s1.adlibris.com/images/58884305/project-hail-mary.jpg
 Author:: [[Andy Weir]]
 Genre:: [[Science-fiction]]
 Rating:: 7
-Similar-books:: [[The Martian]], [[Artemis]]
+Similar-books:: 
 # Synopsis
 A man wakes up, not knowing who he is surrounded by medical robotic arms. 
 Slowly through flashbacks he remembers that the sun seems to be dying. He realizes he is on a space ship. In another solar system. 

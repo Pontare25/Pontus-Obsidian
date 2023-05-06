@@ -11,11 +11,9 @@
             "id": "b860df7dc9f40a6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Meetings/Test meeting.md",
-                "mode": "source",
-                "source": false
+                "file": "excalibrain.md"
               }
             },
             "group": "692135e35950e750"
@@ -26,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Meeting template.md",
+                "file": "Dashboard/Todo.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic notes/Daily notes/2023-05-05.md",
+                "file": "MOCs/Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,11 +56,9 @@
             "id": "f09d1f735e6b56e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Dashboard/Todo.md",
-                "mode": "source",
-                "source": false
+                "file": "excalibrain.md"
               }
             }
           },
@@ -118,16 +114,14 @@
             "id": "532e3d99e5fd971a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Dashboard/Todo.md",
-                "mode": "source",
-                "source": false
+                "file": "excalibrain.md"
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       },
       {
         "id": "0a80041f9e186d55",
@@ -157,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Meetings/Test meeting.md",
+                "file": "excalibrain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -319,38 +313,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "532e3d99e5fd971a",
+  "active": "aacdb0ebac66a5a4",
   "lastOpenFiles": [
-    "Dashboard/Untitled.md",
+    "MOCs/Books.md",
+    "MOCs/Movies.md",
+    "MOCs/Cooking recipes.md",
+    "Templates/People template.md",
+    "Media/Books/Dune.md",
+    "excalibrain.md",
+    "Metadata/Media metadata/Book metadata/Authors/Frank Herbert.md",
+    "Media/Books/Project Hail Mary.md",
+    "Media/Books/The Martian.md",
+    "Metadata/Media metadata/Book metadata/Authors/Andy Weir.md",
+    "Media/Books/Artemis.md",
+    "Metadata/Media metadata/Genres/Science-fiction.md",
     "Dashboard/Todo.md",
+    "Dashboard/Untitled.md",
     "Dashboard/Test.md",
     "Dashboard/Test canvas.canvas",
     "Dashboard/Kanban.md",
     "Periodic notes/Daily notes/2023-05-06.md",
     "Media/Books/Chapterhouse Dune.md",
-    "MOCs/Books.md",
     "Metadata/Recipe metadata/Baking metadata/Pancake.md",
-    "Media/Books/Project Hail Mary.md",
     "Media/Books/Hyperion.md",
     "Recipes/Baking/Toms Pannkakor.md",
-    "MOCs/Cooking recipes.md",
     "Metadata/Recipe metadata/Baking metadata/Cake.md",
     "Metadata/Recipe metadata/Cooking metadata/Italian-food.md",
     "Metadata/Recipe metadata/Baking metadata",
     "Recipes/Baking/Kärleksmums.md",
     "OS Plugins/Mac/Mac Plugins.md",
-    "Media/Books/Artemis.md",
     "Templates/Book template.md",
-    "MOCs/Movies.md",
-    "Media/Books/God Emperor of Dune.md",
-    "Media/Books/Heretics of Dune.md",
     "Metadata/Media metadata/Book metadata",
-    "Templates/Media templates/Book template.md",
-    "Templates/Media templates/Author template.md",
     "Templates/Media templates",
-    "Templates/Media templates/Movie template.md",
-    "Metadata/Media metadata/Book metadata/Book series/Dune series.md",
-    "Metadata/Media metadata/Book metadata/Book series/Hyperion Cantos.md",
     "Metadata/Media metadata/Book metadata/Book series",
     "Metadata/Media metadata/Book metadata/Authors",
     "Templates/Recipe templates",

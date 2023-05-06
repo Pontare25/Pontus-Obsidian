@@ -12,7 +12,7 @@ Cover: https://s2.adlibris.com/images/12218029/the-martian.jpg
 Author:: [[Andy Weir]]
 Genre:: [[Science-fiction]]
 Rating:: 7
-Similar-books:: [[Project Hail Mary]], [[Artemis]]
+Similar-books:: 
 
 # Synopsis
 

@@ -134,10 +134,14 @@
   },
   "hierarchyLinkStyles": {},
   "navigationHistory": [
-    "Templates/Meeting template.md",
     "Periodic notes/Daily notes/2023-05-05.md",
     "Dashboard/Todo.md",
-    "Meetings/Test meeting.md"
+    "Meetings/Test meeting.md",
+    "Metadata/Media metadata/Genres/Science-fiction.md",
+    "Templates/Meeting template.md",
+    "Metadata/Media metadata/Book metadata/Authors/Frank Herbert.md",
+    "Media/Books/Dune.md",
+    "MOCs/Books.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",

@@ -12,7 +12,7 @@ Cover: https://s2.adlibris.com/images/40451107/artemis.jpg
 Author:: [[Andy Weir]]
 Genre:: [[Science-fiction]]
 Rating:: 5
-Similar-books::  [[Project Hail Mary]], [[The Martian]]
+Similar-books:: 
 
 # Synopsis
 The story follows an intelligent female smuggler on the moon-base Artemis in the near future. 
