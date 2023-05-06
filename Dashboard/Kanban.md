@@ -6,6 +6,7 @@ kanban-plugin: basic
 
 ## Todo
 
+- [ ] Order Ekan christmas gift
 
 
 ## In progress
