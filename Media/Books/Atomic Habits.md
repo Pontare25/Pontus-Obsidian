@@ -6,6 +6,7 @@ Read-date:
 Consumed-as: physical, audiobook
 Tags: 
 ---
+[[Books]]
 Author:: [[James Clear]]
 Genre:: [[Personal development]]
 Rating:: 9

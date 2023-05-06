@@ -1,16 +1,16 @@
 ---
 Type: book
 Pages: 
-Published-date:
+Published-date: 2013
 Read-date:
 Consumed-as: physical, audiobook
 Tags: 
 ---
 [[Books]]
-Author:: 
-Genre::
-Rating:: 
-Similar-books:: 
+Author:: [[Andy Weir]]
+Genre:: [[Science-fiction]]
+Rating:: 7
+Similar-books:: [[Project Hail Mary]], [[Artemis]]
 
 # Synopsis
 
