@@ -10,7 +10,7 @@ Tags:
 ---
 Author:: [[Andy Weir]]
 Genre:: [[Science-fiction]]
-Rating:: 6
+Rating:: 7
 Similar-books:: [[The Martian]], [[Artemis]]
 # Synopsis
 A man wakes up, not knowing who he is surrounded by medical robotic arms. 

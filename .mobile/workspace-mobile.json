@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Project Hail Mary.md",
+                "file": "Books/Atomic Habits.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books/Project Hail Mary.md",
+            "file": "Books/Atomic Habits.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Books/Project Hail Mary.md",
+            "file": "Books/Atomic Habits.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -258,7 +258,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Books/Project Hail Mary.md"
+            "file": "Books/Atomic Habits.md"
           }
         }
       },
@@ -291,22 +291,32 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "25dc3eeb55caaa9a",
   "lastOpenFiles": [
-    "Artemis.md",
+    "Dashboard/Todo.md",
+    "Books/Artemis.md",
+    "Metadata/Genres/Personal development.md",
+    "MOCs/Books.md",
+    "Books/Atomic Habits.md",
+    "README.md",
+    "Pontus-Obsidian/README.md",
+    "Metadata/Genres/Science-fiction.md",
+    "Metadata",
+    "Metadata/Genres",
     "Books/Project Hail Mary.md",
+    "MOCs",
+    "Artemis.md",
     "Templates/Book template.md",
     "Books",
     "Periodic notes/Daily notes/2023-05-06.md",
     "Templates/Daily note template.md",
     "excalibrain.md",
     "Meetings/Test meeting.md",
-    "Dashboard/Todo.md",
     "Periodic notes/Daily notes/2023-05-05.md",
     "Dashboard/Kanban.md",
     "Dashboard",
