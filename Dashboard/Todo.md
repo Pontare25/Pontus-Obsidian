@@ -1,15 +1,12 @@
 [[Kanban]]
-
 ```dataview
 Task
 From !"Templates"
-Contains text !""
+where !completed and text!=""
 ```
-
-
 >[!done]-
 >```dataview
 >Task
->Completed =true
+>where completed and text!=""
 >```
 

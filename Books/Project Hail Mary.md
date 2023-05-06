@@ -1,6 +1,6 @@
 ---
 Type: book
-Genre: science-fiction
+
 Pages: 
 Published-date:
 Read-date:
@@ -9,6 +9,7 @@ Read-by: Ray Porter
 Tags: 
 ---
 Author:: [[Andy Weir]]
+Genre:: [[Science-fiction]]
 Rating:: 6
 Similar-books:: [[The Martian]], [[Artemis]]
 # Synopsis

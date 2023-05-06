@@ -6,9 +6,9 @@ Read-date:
 Consumed-as: physical, audiobook
 Tags: 
 ---
-Author:: 
-Genre::
-Rating:: 
+Author:: [[James Clear]]
+Genre:: [[Personal development]]
+Rating:: 9
 Similar-books:: 
 
 # Synopsis
