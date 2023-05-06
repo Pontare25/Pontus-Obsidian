@@ -72,14 +72,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic notes/Daily notes/2023-05-05.md",
+                "file": "Periodic notes/Daily notes/2023-05-06.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0052e3118ace83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Book template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25dc3eeb55caaa9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Project Hail Mary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "0a80041f9e186d55",
@@ -205,7 +229,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-05.md",
+            "file": "Books/Project Hail Mary.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -222,7 +246,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-05.md",
+            "file": "Books/Project Hail Mary.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -234,7 +258,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-05.md"
+            "file": "Books/Project Hail Mary.md"
           }
         }
       },
@@ -267,21 +291,27 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "bba9c0e0c804dfcc",
+  "active": "25dc3eeb55caaa9a",
   "lastOpenFiles": [
-    "Dashboard/Kanban.md",
+    "Templates/Book template.md",
+    "Books/Project Hail Mary.md",
+    "Books",
+    "Periodic notes/Daily notes/2023-05-06.md",
+    "Templates/Daily note template.md",
     "excalibrain.md",
+    "Meetings/Test meeting.md",
     "Dashboard/Todo.md",
+    "Periodic notes/Daily notes/2023-05-05.md",
+    "Dashboard/Kanban.md",
     "Dashboard",
     "Meetings/Meeting dataview.md",
-    "Meetings/Test meeting.md",
-    "Periodic notes/Daily notes/2023-05-05.md",
     "Templates/Meeting template.md",
     "Excel",
-    "Templates/Daily note template.md",
     "2023-05-05.md",
     "Periodic notes/Weekly notes",
     "Periodic notes/Daily notes",

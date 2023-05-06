@@ -12,17 +12,9 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-Todo ^esuDGDhA
+Test meeting ^9CFCIny7
 
-1 ^1gc3IbNq
-
-Kanban ^aXg0uML6
-
-1 ^lrEAU9VO
-
-[[Dashboard/Todo.md]] ^0Rp1B3fx
-
-[[Dashboard/Kanban.md]] ^KrinEOwi
+[[Meetings/Test meeting.md]] ^E8XxO0vt
 
 %%
 # Drawing
@@ -33,62 +25,11 @@ Kanban ^aXg0uML6
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
 	"elements": [
 		{
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-26.682806369096664,
-					142.3083006351822
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "wdxoXN9h",
-				"focus": -3.925970246231275e-17,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "tl03V8uX",
-				"focus": -3.925970246231275e-17,
-				"gap": 4
-			},
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"id": "jsICOldV",
-			"type": "arrow",
-			"x": 13.341403184548332,
-			"y": -2.154150317591103,
-			"width": 26.682806369096664,
-			"height": 142.3083006351822,
-			"angle": 0,
-			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 3775,
-			"version": 1,
-			"versionNonce": 442903393,
-			"updated": 1683323481757,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "0Rp1B3fx",
+			"id": "E8XxO0vt",
 			"type": "rectangle",
-			"x": -45.15625,
+			"x": -115.46875,
 			"y": -72,
-			"width": 90.3125,
+			"width": 230.9375,
 			"height": 56,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -101,35 +42,35 @@ Kanban ^aXg0uML6
 			"roundness": {
 				"type": 3
 			},
-			"seed": 30325,
+			"seed": 60030,
 			"version": 1,
-			"versionNonce": 451350335,
-			"updated": 1683323481756,
+			"versionNonce": 294701552,
+			"updated": 1683366091141,
 			"isDeleted": false,
 			"groupIds": [
-				"HYMvtCzM"
+				"HUUmrdn8"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "esuDGDhA"
+					"id": "9CFCIny7"
 				}
 			],
-			"link": "[[Dashboard/Todo.md]]",
+			"link": "[[Meetings/Test meeting.md]]",
 			"locked": false
 		},
 		{
-			"text": "Todo",
+			"text": "Test meeting",
 			"fontSize": 30,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 28,
-			"id": "esuDGDhA",
+			"id": "9CFCIny7",
 			"type": "text",
-			"x": -35.15625,
+			"x": -105.46875,
 			"y": -62,
-			"width": 70.3125,
+			"width": 210.9375,
 			"height": 36,
 			"angle": 0,
 			"strokeColor": "#000000ff",
@@ -142,26 +83,26 @@ Kanban ^aXg0uML6
 			"roundness": {
 				"type": 3
 			},
-			"seed": 2192,
+			"seed": 97726,
 			"version": 1,
-			"versionNonce": 475072256,
-			"updated": 1683323481756,
+			"versionNonce": 383648374,
+			"updated": 1683366091141,
 			"isDeleted": false,
 			"groupIds": [
-				"HYMvtCzM"
+				"HUUmrdn8"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "0Rp1B3fx",
-			"originalText": "Todo",
-			"rawText": "Todo",
+			"containerId": "E8XxO0vt",
+			"originalText": "Test meeting",
+			"rawText": "Test meeting",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "jWtybfkm",
+			"id": "frp9tWs5",
 			"type": "ellipse",
-			"x": -55.15625,
+			"x": -125.46875,
 			"y": -49,
 			"width": 10,
 			"height": 10,
@@ -176,20 +117,20 @@ Kanban ^aXg0uML6
 			"roundness": {
 				"type": 3
 			},
-			"seed": 54805,
+			"seed": 8838,
 			"version": 1,
-			"versionNonce": 351612648,
-			"updated": 1683323481756,
+			"versionNonce": 689403963,
+			"updated": 1683366091141,
 			"isDeleted": false,
 			"groupIds": [
-				"HYMvtCzM"
+				"HUUmrdn8"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "0B80HHLm",
+			"id": "nPUTw3Yp",
 			"type": "ellipse",
 			"x": -20,
 			"y": -82,
@@ -206,20 +147,20 @@ Kanban ^aXg0uML6
 			"roundness": {
 				"type": 3
 			},
-			"seed": 98658,
+			"seed": 38203,
 			"version": 1,
-			"versionNonce": 772132832,
-			"updated": 1683323481756,
+			"versionNonce": 57742013,
+			"updated": 1683366091141,
 			"isDeleted": false,
 			"groupIds": [
-				"HYMvtCzM"
+				"HUUmrdn8"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "wdxoXN9h",
+			"id": "vtPiB41u",
 			"type": "ellipse",
 			"x": 10,
 			"y": -16,
@@ -227,120 +168,6 @@ Kanban ^aXg0uML6
 			"height": 10,
 			"angle": 0,
 			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 33934,
-			"version": 1,
-			"versionNonce": 767932566,
-			"updated": 1683323481756,
-			"isDeleted": false,
-			"groupIds": [
-				"HYMvtCzM"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "jsICOldV"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "1",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 9,
-			"id": "1gc3IbNq",
-			"type": "text",
-			"x": 25,
-			"y": -16,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 42357,
-			"version": 1,
-			"versionNonce": 423033424,
-			"updated": 1683323481756,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "1",
-			"rawText": "1",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "KrinEOwi",
-			"type": "rectangle",
-			"x": -45.15625,
-			"y": 154,
-			"width": 90.3125,
-			"height": 44,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#000005b3",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 6846,
-			"version": 1,
-			"versionNonce": 90444126,
-			"updated": 1683323481757,
-			"isDeleted": false,
-			"groupIds": [
-				"ExGboPgG"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "aXg0uML6"
-				}
-			],
-			"link": "[[Dashboard/Kanban.md]]",
-			"locked": false
-		},
-		{
-			"text": "Kanban",
-			"fontSize": 20,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 19,
-			"id": "aXg0uML6",
-			"type": "text",
-			"x": -35.15625,
-			"y": 164,
-			"width": 70.3125,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#95c7f3ff",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -350,150 +177,13 @@ Kanban ^aXg0uML6
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1590,
+			"seed": 71595,
 			"version": 1,
-			"versionNonce": 251433167,
-			"updated": 1683323481757,
+			"versionNonce": 293873692,
+			"updated": 1683366091141,
 			"isDeleted": false,
 			"groupIds": [
-				"ExGboPgG"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "KrinEOwi",
-			"originalText": "Kanban",
-			"rawText": "Kanban",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "jlRXTOfK",
-			"type": "ellipse",
-			"x": -55.15625,
-			"y": 171,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 35051,
-			"version": 1,
-			"versionNonce": 13920299,
-			"updated": 1683323481757,
-			"isDeleted": false,
-			"groupIds": [
-				"ExGboPgG"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "tl03V8uX",
-			"type": "ellipse",
-			"x": -20,
-			"y": 144,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 25030,
-			"version": 1,
-			"versionNonce": 557012713,
-			"updated": 1683323481757,
-			"isDeleted": false,
-			"groupIds": [
-				"ExGboPgG"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "jsICOldV"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "1",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 9,
-			"id": "lrEAU9VO",
-			"type": "text",
-			"x": -5,
-			"y": 144,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 68869,
-			"version": 1,
-			"versionNonce": 435357496,
-			"updated": 1683323481757,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "1",
-			"rawText": "1",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "MP8OT5Bx",
-			"type": "ellipse",
-			"x": 10,
-			"y": 198,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 48452,
-			"version": 1,
-			"versionNonce": 50358140,
-			"updated": 1683323481757,
-			"isDeleted": false,
-			"groupIds": [
-				"ExGboPgG"
+				"HUUmrdn8"
 			],
 			"boundElements": [],
 			"link": null,
@@ -515,10 +205,10 @@ Kanban ^aXg0uML6
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 326.44752883878317,
-		"scrollY": 464.6898272262466,
+		"scrollX": 410.6615858108457,
+		"scrollY": 570.0132292747398,
 		"zoom": {
-			"value": 0.6886776825061558
+			"value": 0.5767935928781691
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

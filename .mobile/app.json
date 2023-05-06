@@ -1,3 +1,6 @@
 {
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments",
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": false
 }

@@ -13,6 +13,3 @@ Contains text !""
 >Completed =true
 >```
 
-
-Test
-Teatar
