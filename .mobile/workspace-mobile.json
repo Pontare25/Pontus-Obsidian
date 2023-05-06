@@ -113,9 +113,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "532e3d99e5fd971a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "0a80041f9e186d55",
@@ -307,10 +319,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b640616058706181",
+  "active": "532e3d99e5fd971a",
   "lastOpenFiles": [
-    "Dashboard/Kanban.md",
+    "Dashboard/Untitled.md",
     "Dashboard/Todo.md",
+    "Dashboard/Test.md",
+    "Dashboard/Test canvas.canvas",
+    "Dashboard/Kanban.md",
     "Periodic notes/Daily notes/2023-05-06.md",
     "Media/Books/Chapterhouse Dune.md",
     "MOCs/Books.md",
@@ -337,8 +352,6 @@
     "Metadata/Media metadata/Book metadata/Book series/Dune series.md",
     "Metadata/Media metadata/Book metadata/Book series/Hyperion Cantos.md",
     "Metadata/Media metadata/Book metadata/Book series",
-    "Media/Books/Children of Dune.md",
-    "Media/Books/Dune Messiah.md",
     "Metadata/Media metadata/Book metadata/Authors",
     "Templates/Recipe templates",
     "Programming/Attachements",
