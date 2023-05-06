@@ -12,7 +12,7 @@ Rating:: 5
 Similar-books::  [[Project Hail Mary]], [[The Martian]]
 
 # Synopsis
-
+The story follows an intelligent female smuggler on the moon-base Artemis in the near future. 
 
 # Key concepts
 
