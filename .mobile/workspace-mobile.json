@@ -31,6 +31,18 @@
             }
           },
           {
+            "id": "0b741a0c6be83ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b6a9dbcf4c151e5",
             "type": "leaf",
             "state": {
@@ -121,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "0a80041f9e186d55",
@@ -313,10 +325,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aacdb0ebac66a5a4",
+  "active": "0b741a0c6be83ae5",
   "lastOpenFiles": [
-    "Dashboard/Kanban.md",
+    "Book idea/Book idea Outline.md",
     "Dashboard/Todo.md",
+    "Book idea",
+    "Dashboard/Kanban.md",
     "Templates/Daily note template.md",
     "MOCs/Books.md",
     "MOCs/Movies.md",
@@ -330,7 +344,6 @@
     "Metadata/Media metadata/Book metadata/Authors/Andy Weir.md",
     "Media/Books/Artemis.md",
     "Metadata/Media metadata/Genres/Science-fiction.md",
-    "Dashboard/Untitled.md",
     "Dashboard/Test.md",
     "Dashboard/Test canvas.canvas",
     "Periodic notes/Daily notes/2023-05-06.md",
@@ -342,7 +355,6 @@
     "Metadata/Recipe metadata/Cooking metadata/Italian-food.md",
     "Metadata/Recipe metadata/Baking metadata",
     "Recipes/Baking/Kärleksmums.md",
-    "OS Plugins/Mac/Mac Plugins.md",
     "Metadata/Media metadata/Book metadata",
     "Templates/Media templates",
     "Metadata/Media metadata/Book metadata/Book series",
@@ -351,7 +363,6 @@
     "Programming/Attachements",
     "Programming",
     "Metadata/Media metadata/Authors",
-    "Metadata/Media metadata",
     "Programming/Attachements/sql joins.png"
   ]
 }
