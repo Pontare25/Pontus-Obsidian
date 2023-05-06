@@ -72,38 +72,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic notes/Daily notes/2023-05-06.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0052e3118ace83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Book template.md",
+                "file": "Recipes/Baking/Kärleksmums.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "25dc3eeb55caaa9a",
+            "id": "1fe8d04c73d10b49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Atomic Habits.md",
+                "file": "Recipes/Baking/Kärleksmums.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "0a80041f9e186d55",
@@ -229,7 +217,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Books/Atomic Habits.md",
+            "file": "Recipes/Baking/Kärleksmums.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -246,7 +234,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Books/Atomic Habits.md",
+            "file": "Recipes/Baking/Kärleksmums.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -258,7 +246,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Books/Atomic Habits.md"
+            "file": "Recipes/Baking/Kärleksmums.md"
           }
         }
       },
@@ -296,36 +284,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "25dc3eeb55caaa9a",
+  "active": "1fe8d04c73d10b49",
   "lastOpenFiles": [
-    "Dashboard/Todo.md",
-    "Books/Artemis.md",
-    "Metadata/Genres/Personal development.md",
+    "Recipes/Baking/Toms Pannkakor.md",
+    "Recipes/Baking/Kärleksmums.md",
+    "MOCs/Cooking recipes.md",
+    "OS Plugins/Mac/Mac Plugins.md",
+    "Media/Books/Artemis.md",
     "MOCs/Books.md",
-    "Books/Atomic Habits.md",
-    "README.md",
-    "Pontus-Obsidian/README.md",
-    "Metadata/Genres/Science-fiction.md",
-    "Metadata",
-    "Metadata/Genres",
-    "Books/Project Hail Mary.md",
-    "MOCs",
-    "Artemis.md",
-    "Templates/Book template.md",
-    "Books",
     "Periodic notes/Daily notes/2023-05-06.md",
-    "Templates/Daily note template.md",
-    "excalibrain.md",
-    "Meetings/Test meeting.md",
-    "Periodic notes/Daily notes/2023-05-05.md",
-    "Dashboard/Kanban.md",
-    "Dashboard",
-    "Meetings/Meeting dataview.md",
-    "Templates/Meeting template.md",
-    "Excel",
-    "2023-05-05.md",
-    "Periodic notes/Weekly notes",
-    "Periodic notes/Daily notes",
-    "Periodic notes"
+    "Templates/Book template.md",
+    "MOCs/Movies.md",
+    "Media/Books/Hyperion.md",
+    "Media/Books/God Emperor of Dune.md",
+    "Media/Books/Heretics of Dune.md",
+    "Metadata/Media metadata/Book metadata",
+    "Templates/Media templates/Book template.md",
+    "Templates/Media templates/Author template.md",
+    "Templates/Media templates",
+    "Media/Books/Chapterhouse Dune.md",
+    "Templates/Media templates/Movie template.md",
+    "Metadata/Media metadata/Book metadata/Book series/Dune series.md",
+    "Metadata/Media metadata/Book metadata/Book series/Hyperion Cantos.md",
+    "Metadata/Media metadata/Book metadata/Book series",
+    "Media/Books/Children of Dune.md",
+    "Media/Books/Dune Messiah.md",
+    "Metadata/Media metadata/Book metadata/Authors/Dan Simmons.md",
+    "Metadata/Media metadata/Book metadata/Authors/James Clear.md",
+    "Metadata/Media metadata/Book metadata/Authors/Andy Weir.md",
+    "Metadata/Media metadata/Book metadata/Authors/Frank Herbert.md",
+    "Metadata/Media metadata/Book metadata/Authors",
+    "Media/Books/Dune.md",
+    "Books/Atomic Habits.md",
+    "Templates/Recipe templates",
+    "Programming/Attachements",
+    "Programming",
+    "Metadata/Media metadata/Authors",
+    "Metadata/Media metadata",
+    "Metadata/Recipe metadata/Cooking metadata",
+    "Programming/Attachements/sql joins.png"
   ]
 }
