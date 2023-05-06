@@ -1,18 +1,19 @@
 ---
 Type: book
 Pages: 
-Published-date: 2013
+Published-date: 1989
 Read-date:
 Consumed-as: physical, audiobook
 Tags: 
-Cover: https://s2.adlibris.com/images/12218029/the-martian.jpg
+Cover: https://s2.adlibris.com/images/358400/hyperion.jpg
 ---
 `="![BookCover|250](" + this.cover + ")"`
 [[Books]]
-Author:: [[Andy Weir]]
+Author:: [[Dan Simmons]]
 Genre:: [[Science-fiction]]
-Rating:: 7
-Similar-books:: [[Project Hail Mary]], [[Artemis]]
+Rating::
+Book-series:: [[Hyperion Cantos]]
+Similar-books:: 
 
 # Synopsis
 

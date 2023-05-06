@@ -1,18 +1,19 @@
 ---
 Type: book
 Pages: 
-Published-date: 2013
+Published-date: 1969
 Read-date:
 Consumed-as: physical, audiobook
 Tags: 
-Cover: https://s2.adlibris.com/images/12218029/the-martian.jpg
+Cover: https://s1.adlibris.com/images/27533907/dune-messiah.jpg
 ---
 `="![BookCover|250](" + this.cover + ")"`
 [[Books]]
-Author:: [[Andy Weir]]
+Author:: [[Frank Herbert]]
 Genre:: [[Science-fiction]]
 Rating:: 7
-Similar-books:: [[Project Hail Mary]], [[Artemis]]
+Book-series:: [[Dune series]]
+Similar-books:: 
 
 # Synopsis
 

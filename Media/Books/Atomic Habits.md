@@ -5,11 +5,13 @@ Published-date:
 Read-date:
 Consumed-as: physical, audiobook
 Tags: 
+Cover: https://s2.adlibris.com/images/30823115/atomic-habits.jpg
 ---
+`="![BookCover|250](" + this.cover + ")"`
 [[Books]]
 Author:: [[James Clear]]
 Genre:: [[Personal development]]
-Rating:: 9
+Rating:: 8
 Similar-books:: 
 
 # Synopsis

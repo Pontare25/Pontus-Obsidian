@@ -12,71 +12,47 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-Books ^QMdBBg8G
+Artemis ^wyIIPtKz
 
-5 ^Bdk9onj2
+2 ^oDucEUZV
 
-Artemis ^8OFbSo7E
+3 ^pGTXQmXV
 
-2 ^EIlfSYJm
+Andy Weir ^lSZzd77j
 
-3 ^X8rHknVi
+3 ^Op7brAhq
 
-Atomic Habits ^wL78Nd0D
+Books ^ZiUo9D6e
 
-3 ^w0PbXBq4
+12 ^XD0nRHeg
 
-Book template ^935KMcwX
+Science-fiction ^HLSttXt4
 
-1 ^OggE1pcR
+10 ^10oHCPi0
 
-Project Hail Mary ^xnW08pQR
+Project Hail Mary ^wK1Y71XR
 
-2 ^lhK8nARN
+2 ^8DEL1Sbn
 
-3 ^80hVhy9P
+3 ^XG9SfP7U
 
-The Martian ^LBLC9yN7
+The Martian ^l2neN02B
 
-2 ^OVJS8qf3
+2 ^FBXUrBFk
 
-3 ^yRACJvjV
+3 ^Xt5Ss2pY
 
-Andy Weir ^8QsVUeUH
+[[Media/Books/Artemis.md]] ^byKFVws4
 
-3 ^L4DphPHe
+[[Metadata/Media metadata/Book metadata/Authors/Andy Weir.md]] ^hr15eYsm
 
-James Clear ^47BgDQbZ
+[[MOCs/Books.md]] ^P2cDVTdP
 
-1 ^NtCZtIvY
+[[Metadata/Media metadata/Genres/Science-fiction.md]] ^tjJ5vf9f
 
-Personal development ^HMCWB5hn
+[[Media/Books/Project Hail Mary.md]] ^GqI72Y33
 
-1 ^aD8IvEEp
-
-Science-fiction ^K6McLnwr
-
-3 ^z4sdzVu4
-
-[[MOCs/Books.md]] ^6IBm5UB7
-
-[[Media/Books/Artemis.md]] ^VjLWNlGa
-
-[[Media/Books/Atomic Habits.md]] ^Aiu2g48O
-
-[[Templates/Book template.md]] ^UPC4wS9s
-
-[[Media/Books/Project Hail Mary.md]] ^xFqNhX2N
-
-[[Media/Books/The Martian.md]] ^7Z2B0dbX
-
-[[Metadata/Media metadata/Authors/Andy Weir.md]] ^XJg5sShk
-
-[[Metadata/Media metadata/Authors/James Clear.md]] ^qWwLDojw
-
-[[Metadata/Media metadata/Genres/Personal development.md]] ^zgYpUjeX
-
-[[Metadata/Media metadata/Genres/Science-fiction.md]] ^UDzYEGRy
+[[Media/Books/The Martian.md]] ^od6kwli9
 
 %%
 # Drawing
@@ -93,185 +69,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					-430.9812713414034,
-					239.26319477897005
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "DVmUVuwH",
-				"focus": -2.8598030351630235e-15,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "jKzkenai",
-				"focus": -2.8598030351630235e-15,
-				"gap": 4
-			},
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"id": "JKj6WDfd",
-			"type": "arrow",
-			"x": 423.8500106707017,
-			"y": -320.631597389485,
-			"width": 430.9812713414034,
-			"height": 239.26319477897005,
-			"angle": 0,
-			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 80182,
-			"version": 1,
-			"versionNonce": 52011705,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					371.566765797963,
-					238.28313966647553
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "2oFG1TUf",
-				"focus": -8.03572233761561e-15,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "jKzkenai",
-				"focus": 2.7815961937900187e-15,
-				"gap": 4
-			},
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"id": "UlOiHY98",
-			"type": "arrow",
-			"x": -394.1427578989815,
-			"y": -320.1415698332378,
-			"width": 371.566765797963,
-			"height": 238.28313966647553,
-			"angle": 0,
-			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 81188,
-			"version": 1,
-			"versionNonce": 476466623,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-27.83833920652083,
-					230.13027077390552
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "9VMHX7yU",
-				"focus": 9.808710131508985e-17,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "jKzkenai",
-				"focus": 9.808710131508985e-17,
-				"gap": 4
-			},
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"id": "K6K8KUOc",
-			"type": "arrow",
-			"x": 13.919169603260414,
-			"y": -316.06513538695276,
-			"width": 27.83833920652083,
-			"height": 230.13027077390552,
-			"angle": 0,
-			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 38083,
-			"version": 1,
-			"versionNonce": 497169781,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"points": [
-				[
-					0,
-					0
-				],
-				[
 					-26.682806369096664,
 					142.3083006351822
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "vlpOvA2k",
+				"elementId": "oYO10Q4Q",
 				"focus": -3.925970246231275e-17,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "jKzkenai",
+				"elementId": "1lF5GZXP",
 				"focus": -3.925970246231275e-17,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "wscq30m9",
+			"id": "0CfKqX9n",
 			"type": "arrow",
 			"x": 13.341403184548332,
-			"y": -228.1541503175911,
+			"y": -2.154150317591103,
 			"width": 26.682806369096664,
 			"height": 142.3083006351822,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -280,10 +103,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 96622,
+			"seed": 32926,
 			"version": 1,
-			"versionNonce": 20804471,
-			"updated": 1683391618161,
+			"versionNonce": 529213869,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -303,26 +126,26 @@ Science-fiction ^K6McLnwr
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "R0EkGtPg",
-				"focus": -3.2872741601518477e-15,
+				"elementId": "oYO10Q4Q",
+				"focus": -1.9922873697889985e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "jKzkenai",
+				"elementId": "IEYoULgQ",
 				"focus": -3.2872741601518477e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "NvGhm6d5",
+			"id": "86Dl3bhf",
 			"type": "arrow",
-			"x": 423.245825329073,
-			"y": -233.96527636830035,
+			"x": 6.52707532907298,
+			"y": -7.96527636830036,
 			"width": 429.772900658146,
 			"height": 153.9305527366007,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -331,10 +154,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 44144,
+			"seed": 89197,
 			"version": 1,
-			"versionNonce": 659277780,
-			"updated": 1683391618161,
+			"versionNonce": 749415500,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -348,32 +171,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					1132.740230207487,
-					-72.84483305401125
+					370.08611955074093,
+					153.1184591595793
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "2oFG1TUf",
-				"focus": 4.807562289105681e-16,
+				"elementId": "oYO10Q4Q",
+				"focus": 1.1354181027822307e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "NZEMG3qO",
-				"focus": 1.2018905722764204e-15,
+				"elementId": "dMbneV23",
+				"focus": -9.083344822257845e-16,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "xYXcgr1w",
+			"id": "MEtRCJst",
 			"type": "arrow",
-			"x": -392.73730260374344,
-			"y": -325.5775834729944,
-			"width": 1132.740230207487,
-			"height": 72.84483305401125,
+			"x": 23.316315224629555,
+			"y": -7.55922957978963,
+			"width": 370.08611955074093,
+			"height": 153.1184591595793,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -382,10 +205,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 49662,
+			"seed": 6359,
 			"version": 1,
-			"versionNonce": 332560719,
-			"updated": 1683391618161,
+			"versionNonce": 501941107,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -399,32 +222,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					1132.871488409704,
-					156.04383703480255
+					-641.7078759180238,
+					-42.802057819929644
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "2oFG1TUf",
-				"focus": 1.0339072446217124e-15,
+				"elementId": "8lEJB51R",
+				"focus": -1.7677013308110963e-17,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "n7Eu6fA4",
-				"focus": 4.0958633152321685e-15,
+				"elementId": "mElhmFif",
+				"focus": 7.601115722487713e-16,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "Hr8S4D0M",
+			"id": "5oYzhOv1",
 			"type": "arrow",
-			"x": -392.80293170485186,
-			"y": -323.7719185174013,
-			"width": 1132.871488409704,
-			"height": 156.04383703480255,
+			"x": -85.50348391598817,
+			"y": -44.59897109003518,
+			"width": 641.7078759180238,
+			"height": 42.802057819929644,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -433,10 +256,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 52699,
+			"seed": 2224,
 			"version": 1,
-			"versionNonce": 978984136,
-			"updated": 1683391618161,
+			"versionNonce": 182361324,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -450,32 +273,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					340.64499079513917,
-					83.70473770323838
+					-676.8602014864117,
+					42.862421979159194
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "FxTMKUKd",
-				"focus": 5.185579705283202e-16,
+				"elementId": "8lEJB51R",
+				"focus": 4.358283872579196e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "k886jIs5",
-				"focus": 5.185579705283202e-16,
+				"elementId": "X5R6r20L",
+				"focus": 8.046062533992362e-16,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "BHpYj9Pu",
+			"id": "giZ4thMS",
 			"type": "arrow",
-			"x": -463.9943703975696,
-			"y": -349.8523688516192,
-			"width": 340.64499079513917,
-			"height": 83.70473770323838,
+			"x": -85.50544613179417,
+			"y": -43.4312109895796,
+			"width": 676.8602014864117,
+			"height": 42.862421979159194,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -484,10 +307,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 53055,
+			"seed": 93924,
 			"version": 1,
-			"versionNonce": 773691860,
-			"updated": 1683391618161,
+			"versionNonce": 919637109,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -501,32 +324,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					792.1052965034451,
-					86.05588406457184
+					803.3624739141898,
+					205.5384490071474
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "FxTMKUKd",
-				"focus": -3.3388363136952603e-15,
+				"elementId": "aFdG1bNY",
+				"focus": -1.9193691189215077e-15,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "qMIVqOkh",
-				"focus": -3.3388363136952603e-15,
+				"elementId": "1lF5GZXP",
+				"focus": -4.716164120778562e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "41ydeAg1",
+			"id": "YKdenM2S",
 			"type": "arrow",
-			"x": -463.78702325172253,
-			"y": -351.0279420322859,
-			"width": 792.1052965034451,
-			"height": 86.05588406457184,
+			"x": -827.0816275820949,
+			"y": -58.76922450357368,
+			"width": 803.3624739141898,
+			"height": 205.5384490071474,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -535,10 +358,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 65732,
+			"seed": 61263,
 			"version": 1,
-			"versionNonce": 823167173,
-			"updated": 1683391618161,
+			"versionNonce": 625509362,
+			"updated": 1683395723463,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -552,32 +375,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					715.984579643315,
-					3.414168086005361
+					802.9963784027387,
+					119.3536365985691
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "9VMHX7yU",
-				"focus": 1.5550723298148682e-15,
+				"elementId": "RuJv0FWT",
+				"focus": -6.721910788699096e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "EjaEkRPF",
-				"focus": 1.5104148602286085e-15,
+				"elementId": "1lF5GZXP",
+				"focus": 7.282070021090688e-16,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "u7mmLo0b",
+			"id": "474KVxP7",
 			"type": "arrow",
-			"x": 23.999897678342517,
-			"y": -324.9570840430027,
-			"width": 715.984579643315,
-			"height": 3.414168086005361,
+			"x": -826.8985798263694,
+			"y": 28.323181700715445,
+			"width": 802.9963784027387,
+			"height": 119.3536365985691,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -586,10 +409,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 41632,
+			"seed": 18583,
 			"version": 1,
-			"versionNonce": 997512612,
-			"updated": 1683391618161,
+			"versionNonce": 414956199,
+			"updated": 1683395723463,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -603,32 +426,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					716.0929910673647,
-					79.02556818931814
+					388.11014483807037,
+					201.69946721924362
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "9VMHX7yU",
-				"focus": -6.753920787249781e-15,
+				"elementId": "aFdG1bNY",
+				"focus": 3.7428411140940316e-15,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "BVRJ1w9c",
-				"focus": 6.627679277207728e-16,
+				"elementId": "IEYoULgQ",
+				"focus": 1.2476137046980107e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "13GtC9BJ",
+			"id": "Fdt1YTUI",
 			"type": "arrow",
-			"x": 23.945691966317746,
-			"y": -324.0127840946591,
-			"width": 716.0929910673647,
-			"height": 79.02556818931814,
+			"x": -827.8148380440352,
+			"y": -56.849733609621794,
+			"width": 388.11014483807037,
+			"height": 201.69946721924362,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -637,10 +460,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 86461,
+			"seed": 1042,
 			"version": 1,
-			"versionNonce": 916393969,
-			"updated": 1683391618161,
+			"versionNonce": 171543033,
+			"updated": 1683395723463,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -654,32 +477,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					716.407409039732,
-					-158.1205325582531
+					386.85028550928337,
+					116.79741038257951
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "vlpOvA2k",
-				"focus": -2.479370942100413e-16,
+				"elementId": "RuJv0FWT",
+				"focus": -4.276294685712115e-15,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "NZEMG3qO",
-				"focus": -1.1777011974976963e-15,
+				"elementId": "IEYoULgQ",
+				"focus": -1.125340706766346e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "LkHDtuif",
+			"id": "dbuyaCUg",
 			"type": "arrow",
-			"x": 23.788482980134084,
-			"y": -238.93973372087345,
-			"width": 716.407409039732,
-			"height": 158.1205325582531,
+			"x": -827.1849083796417,
+			"y": 29.601294808710254,
+			"width": 386.85028550928337,
+			"height": 116.79741038257951,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -688,10 +511,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 38116,
+			"seed": 80753,
 			"version": 1,
-			"versionNonce": 647794387,
-			"updated": 1683391618161,
+			"versionNonce": 856794028,
+			"updated": 1683395723463,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -705,32 +528,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					716.0668371601199,
-					68.77900094234087
+					1219.7732304153117,
+					206.9885540541568
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "vlpOvA2k",
-				"focus": -3.413628076706268e-15,
+				"elementId": "aFdG1bNY",
+				"focus": 2.5361533207119905e-15,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "n7Eu6fA4",
-				"focus": -4.1089967589982856e-15,
+				"elementId": "dMbneV23",
+				"focus": 1.8377922613855002e-16,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "OvrV6fSV",
+			"id": "WiWegXIS",
 			"type": "arrow",
-			"x": 23.958768919940063,
-			"y": -236.13950047117044,
-			"width": 716.0668371601199,
-			"height": 68.77900094234087,
+			"x": -826.927630832656,
+			"y": -59.494277027078404,
+			"width": 1219.7732304153117,
+			"height": 206.9885540541568,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -739,10 +562,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 29242,
+			"seed": 4430,
 			"version": 1,
-			"versionNonce": 269343813,
-			"updated": 1683391618161,
+			"versionNonce": 772946725,
+			"updated": 1683395723463,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -756,32 +579,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					433.875,
-					0
+					1219.6063685725812,
+					120.23404334924908
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "k886jIs5",
-				"focus": 0,
+				"elementId": "RuJv0FWT",
+				"focus": -4.452782735732701e-16,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "qMIVqOkh",
-				"focus": 0,
+				"elementId": "dMbneV23",
+				"focus": -1.2987282979220378e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "tUCKfHuC",
+			"id": "zJ1DRjSa",
 			"type": "arrow",
-			"x": -105.609375,
-			"y": -264,
-			"width": 433.875,
-			"height": 0,
+			"x": -826.8441999112907,
+			"y": 27.882978325375454,
+			"width": 1219.6063685725812,
+			"height": 120.23404334924908,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -790,10 +613,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 42140,
+			"seed": 98084,
 			"version": 1,
-			"versionNonce": 362265521,
-			"updated": 1683391618161,
+			"versionNonce": 124733344,
+			"updated": 1683395723463,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -807,32 +630,32 @@ Science-fiction ^K6McLnwr
 					0
 				],
 				[
-					301.2345669460191,
-					-153.81433095771106
+					-28.478382435662752,
+					71.2845555011788
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "R0EkGtPg",
-				"focus": -4.1678947873259405e-15,
+				"elementId": "mElhmFif",
+				"focus": -6.3683748847082e-15,
 				"gap": 4
 			},
 			"endBinding": {
-				"elementId": "NZEMG3qO",
-				"focus": -9.276927107273867e-15,
+				"elementId": "X5R6r20L",
+				"focus": -6.3683748847082e-15,
 				"gap": 4
 			},
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"id": "HTY3rmX3",
+			"id": "ayOSzIyp",
 			"type": "arrow",
-			"x": 439.7342790269905,
-			"y": -241.09283452114445,
-			"width": 301.2345669460191,
-			"height": 153.81433095771106,
+			"x": -739.5303400321687,
+			"y": -79.6422777505894,
+			"width": 28.478382435662752,
+			"height": 71.2845555011788,
 			"angle": 0,
 			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
+			"backgroundColor": "#ffffffff",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "dashed",
@@ -841,10 +664,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 11419,
+			"seed": 19264,
 			"version": 1,
-			"versionNonce": 229539213,
-			"updated": 1683391618161,
+			"versionNonce": 88391926,
+			"updated": 1683395723463,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -852,62 +675,11 @@ Science-fiction ^K6McLnwr
 			"locked": false
 		},
 		{
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					299.69421719418835,
-					66.5954350150297
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "R0EkGtPg",
-				"focus": -2.740296753845214e-15,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "n7Eu6fA4",
-				"focus": -2.740296753845214e-15,
-				"gap": 4
-			},
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"id": "Z2mMIWw9",
-			"type": "arrow",
-			"x": 440.5044539029059,
-			"y": -235.04771750751485,
-			"width": 299.69421719418835,
-			"height": 66.5954350150297,
-			"angle": 0,
-			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 43787,
-			"version": 1,
-			"versionNonce": 225314551,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "6IBm5UB7",
+			"id": "byKFVws4",
 			"type": "rectangle",
-			"x": -53.9453125,
+			"x": -71.5234375,
 			"y": -72,
-			"width": 107.890625,
+			"width": 143.046875,
 			"height": 56,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -920,35 +692,35 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 557,
+			"seed": 97700,
 			"version": 1,
-			"versionNonce": 86971852,
-			"updated": 1683391618148,
+			"versionNonce": 304266611,
+			"updated": 1683395723456,
 			"isDeleted": false,
 			"groupIds": [
-				"jISjOqXx"
+				"j6sUZsE9"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "QMdBBg8G"
+					"id": "wyIIPtKz"
 				}
 			],
-			"link": "[[MOCs/Books.md]]",
+			"link": "[[Media/Books/Artemis.md]]",
 			"locked": false
 		},
 		{
-			"text": "Books",
+			"text": "Artemis",
 			"fontSize": 30,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 29,
-			"id": "QMdBBg8G",
+			"id": "wyIIPtKz",
 			"type": "text",
-			"x": -43.9453125,
+			"x": -61.5234375,
 			"y": -62,
-			"width": 87.890625,
+			"width": 123.046875,
 			"height": 36,
 			"angle": 0,
 			"strokeColor": "#000000ff",
@@ -961,251 +733,27 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 34021,
+			"seed": 34119,
 			"version": 1,
-			"versionNonce": 430721304,
-			"updated": 1683391618148,
+			"versionNonce": 751664621,
+			"updated": 1683395723456,
 			"isDeleted": false,
 			"groupIds": [
-				"jISjOqXx"
+				"j6sUZsE9"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "6IBm5UB7",
-			"originalText": "Books",
-			"rawText": "Books",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "4ljIuE0S",
-			"type": "ellipse",
-			"x": -63.9453125,
-			"y": -49,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 49245,
-			"version": 1,
-			"versionNonce": 662322846,
-			"updated": 1683391618148,
-			"isDeleted": false,
-			"groupIds": [
-				"jISjOqXx"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "jKzkenai",
-			"type": "ellipse",
-			"x": -20,
-			"y": -82,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 59942,
-			"version": 1,
-			"versionNonce": 446337254,
-			"updated": 1683391618148,
-			"isDeleted": false,
-			"groupIds": [
-				"jISjOqXx"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "JKj6WDfd"
-				},
-				{
-					"type": "arrow",
-					"id": "UlOiHY98"
-				},
-				{
-					"type": "arrow",
-					"id": "K6K8KUOc"
-				},
-				{
-					"type": "arrow",
-					"id": "wscq30m9"
-				},
-				{
-					"type": "arrow",
-					"id": "NvGhm6d5"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "5",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "Bdk9onj2",
-			"type": "text",
-			"x": -5,
-			"y": -82,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 51868,
-			"version": 1,
-			"versionNonce": 858421704,
-			"updated": 1683391618148,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "5",
-			"rawText": "5",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "gOs2Vedk",
-			"type": "ellipse",
-			"x": 10,
-			"y": -16,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 37417,
-			"version": 1,
-			"versionNonce": 660143396,
-			"updated": 1683391618149,
-			"isDeleted": false,
-			"groupIds": [
-				"jISjOqXx"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "VjLWNlGa",
-			"type": "rectangle",
-			"x": -467.734375,
-			"y": -374,
-			"width": 102.03125,
-			"height": 44,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#000005b3",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 4615,
-			"version": 1,
-			"versionNonce": 762738868,
-			"updated": 1683391618150,
-			"isDeleted": false,
-			"groupIds": [
-				"lRNLgqye"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "8OFbSo7E"
-				}
-			],
-			"link": "[[Media/Books/Artemis.md]]",
-			"locked": false
-		},
-		{
-			"text": "Artemis",
-			"fontSize": 20,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 20,
-			"id": "8OFbSo7E",
-			"type": "text",
-			"x": -457.734375,
-			"y": -364,
-			"width": 82.03125,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#95c7f3ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 67797,
-			"version": 1,
-			"versionNonce": 115045243,
-			"updated": 1683391618150,
-			"isDeleted": false,
-			"groupIds": [
-				"lRNLgqye"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "VjLWNlGa",
+			"containerId": "byKFVws4",
 			"originalText": "Artemis",
 			"rawText": "Artemis",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "FxTMKUKd",
+			"id": "8lEJB51R",
 			"type": "ellipse",
-			"x": -477.734375,
-			"y": -357,
+			"x": -81.5234375,
+			"y": -49,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -1219,22 +767,22 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 63738,
+			"seed": 3739,
 			"version": 1,
-			"versionNonce": 699672109,
-			"updated": 1683391618150,
+			"versionNonce": 205003021,
+			"updated": 1683395723456,
 			"isDeleted": false,
 			"groupIds": [
-				"lRNLgqye"
+				"j6sUZsE9"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "BHpYj9Pu"
+					"id": "5oYzhOv1"
 				},
 				{
 					"type": "arrow",
-					"id": "41ydeAg1"
+					"id": "giZ4thMS"
 				}
 			],
 			"link": null,
@@ -1247,10 +795,10 @@ Science-fiction ^K6McLnwr
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "EIlfSYJm",
+			"id": "oDucEUZV",
 			"type": "text",
-			"x": -477.734375,
-			"y": -372,
+			"x": -81.5234375,
+			"y": -64,
 			"width": 5.859375,
 			"height": 12,
 			"angle": 0,
@@ -1264,10 +812,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 99394,
+			"seed": 34453,
 			"version": 1,
-			"versionNonce": 549593300,
-			"updated": 1683391618150,
+			"versionNonce": 875918930,
+			"updated": 1683395723456,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -1279,226 +827,10 @@ Science-fiction ^K6McLnwr
 			"lineHeight": 1.2
 		},
 		{
-			"id": "i0lVgpsX",
-			"type": "ellipse",
-			"x": -436.71875,
-			"y": -384,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 74507,
-			"version": 1,
-			"versionNonce": 608566244,
-			"updated": 1683391618150,
-			"isDeleted": false,
-			"groupIds": [
-				"lRNLgqye"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "2oFG1TUf",
-			"type": "ellipse",
-			"x": -406.71875,
-			"y": -330,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 26844,
-			"version": 1,
-			"versionNonce": 964686055,
-			"updated": 1683391618150,
-			"isDeleted": false,
-			"groupIds": [
-				"lRNLgqye"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "UlOiHY98"
-				},
-				{
-					"type": "arrow",
-					"id": "xYXcgr1w"
-				},
-				{
-					"type": "arrow",
-					"id": "Hr8S4D0M"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "3",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "X8rHknVi",
-			"type": "text",
-			"x": -391.71875,
-			"y": -330,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 85250,
-			"version": 1,
-			"versionNonce": 983100633,
-			"updated": 1683391618151,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "3",
-			"rawText": "3",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "Aiu2g48O",
-			"type": "rectangle",
-			"x": -86.171875,
-			"y": -374,
-			"width": 172.34375,
-			"height": 44,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#000005b3",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 30836,
-			"version": 1,
-			"versionNonce": 552201773,
-			"updated": 1683391618152,
-			"isDeleted": false,
-			"groupIds": [
-				"mYaxi7eq"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "wL78Nd0D"
-				}
-			],
-			"link": "[[Media/Books/Atomic Habits.md]]",
-			"locked": false
-		},
-		{
-			"text": "Atomic Habits",
-			"fontSize": 20,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 20,
-			"id": "wL78Nd0D",
-			"type": "text",
-			"x": -76.171875,
-			"y": -364,
-			"width": 152.34375,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#95c7f3ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 91688,
-			"version": 1,
-			"versionNonce": 111262736,
-			"updated": 1683391618152,
-			"isDeleted": false,
-			"groupIds": [
-				"mYaxi7eq"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "Aiu2g48O",
-			"originalText": "Atomic Habits",
-			"rawText": "Atomic Habits",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "MNVwfaDj",
-			"type": "ellipse",
-			"x": -96.171875,
-			"y": -357,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 10999,
-			"version": 1,
-			"versionNonce": 624994829,
-			"updated": 1683391618152,
-			"isDeleted": false,
-			"groupIds": [
-				"mYaxi7eq"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "sCdRxbel",
+			"id": "6Qh0xpJ3",
 			"type": "ellipse",
 			"x": -20,
-			"y": -384,
+			"y": -82,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -1512,23 +844,23 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 27867,
+			"seed": 23527,
 			"version": 1,
-			"versionNonce": 420286977,
-			"updated": 1683391618152,
+			"versionNonce": 523360294,
+			"updated": 1683395723456,
 			"isDeleted": false,
 			"groupIds": [
-				"mYaxi7eq"
+				"j6sUZsE9"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "9VMHX7yU",
+			"id": "oYO10Q4Q",
 			"type": "ellipse",
 			"x": 10,
-			"y": -330,
+			"y": -16,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -1542,26 +874,26 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 56386,
+			"seed": 23338,
 			"version": 1,
-			"versionNonce": 473966540,
-			"updated": 1683391618152,
+			"versionNonce": 272477020,
+			"updated": 1683395723456,
 			"isDeleted": false,
 			"groupIds": [
-				"mYaxi7eq"
+				"j6sUZsE9"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "K6K8KUOc"
+					"id": "0CfKqX9n"
 				},
 				{
 					"type": "arrow",
-					"id": "u7mmLo0b"
+					"id": "86Dl3bhf"
 				},
 				{
 					"type": "arrow",
-					"id": "13GtC9BJ"
+					"id": "MEtRCJst"
 				}
 			],
 			"link": null,
@@ -1574,10 +906,10 @@ Science-fiction ^K6McLnwr
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "w0PbXBq4",
+			"id": "pGTXQmXV",
 			"type": "text",
 			"x": 25,
-			"y": -330,
+			"y": -16,
 			"width": 5.859375,
 			"height": 12,
 			"angle": 0,
@@ -1591,10 +923,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 45618,
+			"seed": 35600,
 			"version": 1,
-			"versionNonce": 633118472,
-			"updated": 1683391618152,
+			"versionNonce": 673354708,
+			"updated": 1683395723457,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -1606,11 +938,11 @@ Science-fiction ^K6McLnwr
 			"lineHeight": 1.2
 		},
 		{
-			"id": "UPC4wS9s",
+			"id": "hr15eYsm",
 			"type": "rectangle",
-			"x": 330.546875,
-			"y": -374,
-			"width": 172.34375,
+			"x": -479.453125,
+			"y": 154,
+			"width": 125.46875,
 			"height": 44,
 			"angle": 0,
 			"strokeColor": "#00000000",
@@ -1623,35 +955,35 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 89321,
+			"seed": 24353,
 			"version": 1,
-			"versionNonce": 707744234,
-			"updated": 1683391618153,
+			"versionNonce": 942084596,
+			"updated": 1683395723457,
 			"isDeleted": false,
 			"groupIds": [
-				"jsx2TyeJ"
+				"9qHEFNjQ"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "935KMcwX"
+					"id": "lSZzd77j"
 				}
 			],
-			"link": "[[Templates/Book template.md]]",
+			"link": "[[Metadata/Media metadata/Book metadata/Authors/Andy Weir.md]]",
 			"locked": false
 		},
 		{
-			"text": "Book template",
+			"text": "Andy Weir",
 			"fontSize": 20,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 20,
-			"id": "935KMcwX",
+			"id": "lSZzd77j",
 			"type": "text",
-			"x": 340.546875,
-			"y": -364,
-			"width": 152.34375,
+			"x": -469.453125,
+			"y": 164,
+			"width": 105.46875,
 			"height": 24,
 			"angle": 0,
 			"strokeColor": "#95c7f3ff",
@@ -1664,27 +996,27 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 65428,
+			"seed": 66070,
 			"version": 1,
-			"versionNonce": 424328863,
-			"updated": 1683391618153,
+			"versionNonce": 29144450,
+			"updated": 1683395723457,
 			"isDeleted": false,
 			"groupIds": [
-				"jsx2TyeJ"
+				"9qHEFNjQ"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "UPC4wS9s",
-			"originalText": "Book template",
-			"rawText": "Book template",
+			"containerId": "hr15eYsm",
+			"originalText": "Andy Weir",
+			"rawText": "Andy Weir",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "WKgfZ6Fn",
+			"id": "EGXym5Q8",
 			"type": "ellipse",
-			"x": 320.546875,
-			"y": -357,
+			"x": -489.453125,
+			"y": 171,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -1698,53 +1030,23 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 57427,
+			"seed": 24086,
 			"version": 1,
-			"versionNonce": 599512505,
-			"updated": 1683391618153,
+			"versionNonce": 698022786,
+			"updated": 1683395723457,
 			"isDeleted": false,
 			"groupIds": [
-				"jsx2TyeJ"
+				"9qHEFNjQ"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "XYv5M2I8",
+			"id": "IEYoULgQ",
 			"type": "ellipse",
-			"x": 396.71875,
-			"y": -384,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 67535,
-			"version": 1,
-			"versionNonce": 941994639,
-			"updated": 1683391618153,
-			"isDeleted": false,
-			"groupIds": [
-				"jsx2TyeJ"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "DVmUVuwH",
-			"type": "ellipse",
-			"x": 426.71875,
-			"y": -330,
+			"x": -436.71875,
+			"y": 144,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -1758,34 +1060,42 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 33125,
+			"seed": 53942,
 			"version": 1,
-			"versionNonce": 596882789,
-			"updated": 1683391618153,
+			"versionNonce": 595584825,
+			"updated": 1683395723457,
 			"isDeleted": false,
 			"groupIds": [
-				"jsx2TyeJ"
+				"9qHEFNjQ"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "JKj6WDfd"
+					"id": "86Dl3bhf"
+				},
+				{
+					"type": "arrow",
+					"id": "Fdt1YTUI"
+				},
+				{
+					"type": "arrow",
+					"id": "dbuyaCUg"
 				}
 			],
 			"link": null,
 			"locked": false
 		},
 		{
-			"text": "1",
+			"text": "3",
 			"fontSize": 10,
 			"fontFamily": 3,
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "OggE1pcR",
+			"id": "Op7brAhq",
 			"type": "text",
-			"x": 441.71875,
-			"y": -330,
+			"x": -421.71875,
+			"y": 144,
 			"width": 5.859375,
 			"height": 12,
 			"angle": 0,
@@ -1799,25 +1109,487 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 4913,
+			"seed": 35738,
 			"version": 1,
-			"versionNonce": 358395673,
-			"updated": 1683391618153,
+			"versionNonce": 681220224,
+			"updated": 1683395723458,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
 			"containerId": null,
-			"originalText": "1",
-			"rawText": "1",
+			"originalText": "3",
+			"rawText": "3",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "xFqNhX2N",
+			"id": "LO15Fdid",
+			"type": "ellipse",
+			"x": -406.71875,
+			"y": 198,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 44323,
+			"version": 1,
+			"versionNonce": 258523775,
+			"updated": 1683395723458,
+			"isDeleted": false,
+			"groupIds": [
+				"9qHEFNjQ"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "P2cDVTdP",
 			"type": "rectangle",
-			"x": -109.609375,
-			"y": -286,
+			"x": -39.296875,
+			"y": 154,
+			"width": 78.59375,
+			"height": 44,
+			"angle": 0,
+			"strokeColor": "#00000000",
+			"backgroundColor": "#000005b3",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 74193,
+			"version": 1,
+			"versionNonce": 109946833,
+			"updated": 1683395723458,
+			"isDeleted": false,
+			"groupIds": [
+				"pgJNU4v8"
+			],
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "ZiUo9D6e"
+				}
+			],
+			"link": "[[MOCs/Books.md]]",
+			"locked": false
+		},
+		{
+			"text": "Books",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 20,
+			"id": "ZiUo9D6e",
+			"type": "text",
+			"x": -29.296875,
+			"y": 164,
+			"width": 58.59375,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#95c7f3ff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 41525,
+			"version": 1,
+			"versionNonce": 545305608,
+			"updated": 1683395723458,
+			"isDeleted": false,
+			"groupIds": [
+				"pgJNU4v8"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"containerId": "P2cDVTdP",
+			"originalText": "Books",
+			"rawText": "Books",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "t5KTaCWT",
+			"type": "ellipse",
+			"x": -49.296875,
+			"y": 171,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 78164,
+			"version": 1,
+			"versionNonce": 812151259,
+			"updated": 1683395723458,
+			"isDeleted": false,
+			"groupIds": [
+				"pgJNU4v8"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "1lF5GZXP",
+			"type": "ellipse",
+			"x": -20,
+			"y": 144,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "#ffffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 91594,
+			"version": 1,
+			"versionNonce": 805912604,
+			"updated": 1683395723458,
+			"isDeleted": false,
+			"groupIds": [
+				"pgJNU4v8"
+			],
+			"boundElements": [
+				{
+					"type": "arrow",
+					"id": "0CfKqX9n"
+				},
+				{
+					"type": "arrow",
+					"id": "YKdenM2S"
+				},
+				{
+					"type": "arrow",
+					"id": "474KVxP7"
+				}
+			],
+			"link": null,
+			"locked": false
+		},
+		{
+			"text": "12",
+			"fontSize": 10,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "middle",
+			"baseline": 10,
+			"id": "XD0nRHeg",
+			"type": "text",
+			"x": -5,
+			"y": 144,
+			"width": 11.71875,
+			"height": 12,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "#ffffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 67837,
+			"version": 1,
+			"versionNonce": 807126602,
+			"updated": 1683395723459,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"containerId": null,
+			"originalText": "12",
+			"rawText": "12",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "Fvk7L9Lt",
+			"type": "ellipse",
+			"x": 10,
+			"y": 198,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 67700,
+			"version": 1,
+			"versionNonce": 322595857,
+			"updated": 1683395723459,
+			"isDeleted": false,
+			"groupIds": [
+				"pgJNU4v8"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "tjJ5vf9f",
+			"type": "rectangle",
+			"x": 318.828125,
+			"y": 154,
+			"width": 195.78125,
+			"height": 44,
+			"angle": 0,
+			"strokeColor": "#00000000",
+			"backgroundColor": "#000005b3",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 19854,
+			"version": 1,
+			"versionNonce": 409500126,
+			"updated": 1683395723459,
+			"isDeleted": false,
+			"groupIds": [
+				"AW0nTlLe"
+			],
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "HLSttXt4"
+				}
+			],
+			"link": "[[Metadata/Media metadata/Genres/Science-fiction.md]]",
+			"locked": false
+		},
+		{
+			"text": "Science-fiction",
+			"fontSize": 20,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 20,
+			"id": "HLSttXt4",
+			"type": "text",
+			"x": 328.828125,
+			"y": 164,
+			"width": 175.78125,
+			"height": 24,
+			"angle": 0,
+			"strokeColor": "#95c7f3ff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 46288,
+			"version": 1,
+			"versionNonce": 822442745,
+			"updated": 1683395723459,
+			"isDeleted": false,
+			"groupIds": [
+				"AW0nTlLe"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"containerId": "tjJ5vf9f",
+			"originalText": "Science-fiction",
+			"rawText": "Science-fiction",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "Jy9rpz91",
+			"type": "ellipse",
+			"x": 308.828125,
+			"y": 171,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 23308,
+			"version": 1,
+			"versionNonce": 459744168,
+			"updated": 1683395723459,
+			"isDeleted": false,
+			"groupIds": [
+				"AW0nTlLe"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "dMbneV23",
+			"type": "ellipse",
+			"x": 396.71875,
+			"y": 144,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "#ffffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 33560,
+			"version": 1,
+			"versionNonce": 768307911,
+			"updated": 1683395723459,
+			"isDeleted": false,
+			"groupIds": [
+				"AW0nTlLe"
+			],
+			"boundElements": [
+				{
+					"type": "arrow",
+					"id": "MEtRCJst"
+				},
+				{
+					"type": "arrow",
+					"id": "WiWegXIS"
+				},
+				{
+					"type": "arrow",
+					"id": "zJ1DRjSa"
+				}
+			],
+			"link": null,
+			"locked": false
+		},
+		{
+			"text": "10",
+			"fontSize": 10,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "middle",
+			"baseline": 10,
+			"id": "10oHCPi0",
+			"type": "text",
+			"x": 411.71875,
+			"y": 144,
+			"width": 11.71875,
+			"height": 12,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "#ffffffff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 31079,
+			"version": 1,
+			"versionNonce": 743902827,
+			"updated": 1683395723460,
+			"isDeleted": false,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"containerId": null,
+			"originalText": "10",
+			"rawText": "10",
+			"lineHeight": 1.2
+		},
+		{
+			"id": "dOLdzzOy",
+			"type": "ellipse",
+			"x": 426.71875,
+			"y": 198,
+			"width": 10,
+			"height": 10,
+			"angle": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 43225,
+			"version": 1,
+			"versionNonce": 210142599,
+			"updated": 1683395723460,
+			"isDeleted": false,
+			"groupIds": [
+				"AW0nTlLe"
+			],
+			"boundElements": [],
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "GqI72Y33",
+			"type": "rectangle",
+			"x": -960.4101562500001,
+			"y": -110,
 			"width": 219.21875,
 			"height": 44,
 			"angle": 0,
@@ -1831,18 +1603,18 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 88332,
+			"seed": 91355,
 			"version": 1,
-			"versionNonce": 613919752,
-			"updated": 1683391618154,
+			"versionNonce": 211145033,
+			"updated": 1683395723460,
 			"isDeleted": false,
 			"groupIds": [
-				"AmJfAAa0"
+				"yIFKG3QW"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "xnW08pQR"
+					"id": "wK1Y71XR"
 				}
 			],
 			"link": "[[Media/Books/Project Hail Mary.md]]",
@@ -1855,10 +1627,10 @@ Science-fiction ^K6McLnwr
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 20,
-			"id": "xnW08pQR",
+			"id": "wK1Y71XR",
 			"type": "text",
-			"x": -99.609375,
-			"y": -276,
+			"x": -950.4101562500001,
+			"y": -100,
 			"width": 199.21875,
 			"height": 24,
 			"angle": 0,
@@ -1872,27 +1644,27 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 87547,
+			"seed": 94147,
 			"version": 1,
-			"versionNonce": 148982805,
-			"updated": 1683391618154,
+			"versionNonce": 573719660,
+			"updated": 1683395723460,
 			"isDeleted": false,
 			"groupIds": [
-				"AmJfAAa0"
+				"yIFKG3QW"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "xFqNhX2N",
+			"containerId": "GqI72Y33",
 			"originalText": "Project Hail Mary",
 			"rawText": "Project Hail Mary",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "k886jIs5",
+			"id": "mElhmFif",
 			"type": "ellipse",
-			"x": -119.609375,
-			"y": -269,
+			"x": -741.1914062500001,
+			"y": -93,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -1906,22 +1678,22 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 80488,
+			"seed": 45197,
 			"version": 1,
-			"versionNonce": 309364635,
-			"updated": 1683391618154,
+			"versionNonce": 720694106,
+			"updated": 1683395723460,
 			"isDeleted": false,
 			"groupIds": [
-				"AmJfAAa0"
+				"yIFKG3QW"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "BHpYj9Pu"
+					"id": "5oYzhOv1"
 				},
 				{
 					"type": "arrow",
-					"id": "tUCKfHuC"
+					"id": "ayOSzIyp"
 				}
 			],
 			"link": null,
@@ -1934,10 +1706,10 @@ Science-fiction ^K6McLnwr
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "lhK8nARN",
+			"id": "8DEL1Sbn",
 			"type": "text",
-			"x": -119.609375,
-			"y": -284,
+			"x": -741.1914062500001,
+			"y": -83,
 			"width": 5.859375,
 			"height": 12,
 			"angle": 0,
@@ -1951,10 +1723,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 84179,
+			"seed": 5671,
 			"version": 1,
-			"versionNonce": 334249591,
-			"updated": 1683391618155,
+			"versionNonce": 67594844,
+			"updated": 1683395723460,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -1966,10 +1738,10 @@ Science-fiction ^K6McLnwr
 			"lineHeight": 1.2
 		},
 		{
-			"id": "3xPo9zoM",
+			"id": "f6nItziG",
 			"type": "ellipse",
-			"x": -20,
-			"y": -296,
+			"x": -870.8007812500001,
+			"y": -120,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -1983,23 +1755,23 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 38927,
+			"seed": 57165,
 			"version": 1,
-			"versionNonce": 397506872,
-			"updated": 1683391618155,
+			"versionNonce": 662740608,
+			"updated": 1683395723460,
 			"isDeleted": false,
 			"groupIds": [
-				"AmJfAAa0"
+				"yIFKG3QW"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "vlpOvA2k",
+			"id": "aFdG1bNY",
 			"type": "ellipse",
-			"x": 10,
-			"y": -242,
+			"x": -840.8007812500001,
+			"y": -66,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -2013,26 +1785,26 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 98513,
+			"seed": 21354,
 			"version": 1,
-			"versionNonce": 539098868,
-			"updated": 1683391618155,
+			"versionNonce": 903083499,
+			"updated": 1683395723460,
 			"isDeleted": false,
 			"groupIds": [
-				"AmJfAAa0"
+				"yIFKG3QW"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "wscq30m9"
+					"id": "YKdenM2S"
 				},
 				{
 					"type": "arrow",
-					"id": "LkHDtuif"
+					"id": "Fdt1YTUI"
 				},
 				{
 					"type": "arrow",
-					"id": "OvrV6fSV"
+					"id": "WiWegXIS"
 				}
 			],
 			"link": null,
@@ -2045,10 +1817,10 @@ Science-fiction ^K6McLnwr
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "80hVhy9P",
+			"id": "XG9SfP7U",
 			"type": "text",
-			"x": 25,
-			"y": -242,
+			"x": -825.8007812500001,
+			"y": -66,
 			"width": 5.859375,
 			"height": 12,
 			"angle": 0,
@@ -2062,10 +1834,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 12504,
+			"seed": 47083,
 			"version": 1,
-			"versionNonce": 852783493,
-			"updated": 1683391618155,
+			"versionNonce": 174066150,
+			"updated": 1683395723461,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -2077,10 +1849,10 @@ Science-fiction ^K6McLnwr
 			"lineHeight": 1.2
 		},
 		{
-			"id": "7Z2B0dbX",
+			"id": "od6kwli9",
 			"type": "rectangle",
-			"x": 342.265625,
-			"y": -286,
+			"x": -925.2539062500001,
+			"y": -22,
 			"width": 148.90625,
 			"height": 44,
 			"angle": 0,
@@ -2094,18 +1866,18 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 93793,
+			"seed": 41291,
 			"version": 1,
-			"versionNonce": 58928387,
-			"updated": 1683391618156,
+			"versionNonce": 691098446,
+			"updated": 1683395723461,
 			"isDeleted": false,
 			"groupIds": [
-				"CQxBakqo"
+				"zqFkAiCt"
 			],
 			"boundElements": [
 				{
 					"type": "text",
-					"id": "LBLC9yN7"
+					"id": "l2neN02B"
 				}
 			],
 			"link": "[[Media/Books/The Martian.md]]",
@@ -2118,10 +1890,10 @@ Science-fiction ^K6McLnwr
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 20,
-			"id": "LBLC9yN7",
+			"id": "l2neN02B",
 			"type": "text",
-			"x": 352.265625,
-			"y": -276,
+			"x": -915.2539062500001,
+			"y": -12,
 			"width": 128.90625,
 			"height": 24,
 			"angle": 0,
@@ -2135,27 +1907,27 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 64787,
+			"seed": 9978,
 			"version": 1,
-			"versionNonce": 856698685,
-			"updated": 1683391618156,
+			"versionNonce": 876496348,
+			"updated": 1683395723461,
 			"isDeleted": false,
 			"groupIds": [
-				"CQxBakqo"
+				"zqFkAiCt"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false,
-			"containerId": "7Z2B0dbX",
+			"containerId": "od6kwli9",
 			"originalText": "The Martian",
 			"rawText": "The Martian",
 			"lineHeight": 1.2
 		},
 		{
-			"id": "qMIVqOkh",
+			"id": "X5R6r20L",
 			"type": "ellipse",
-			"x": 332.265625,
-			"y": -269,
+			"x": -776.3476562500001,
+			"y": -5,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -2169,22 +1941,22 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 93431,
+			"seed": 60394,
 			"version": 1,
-			"versionNonce": 890072922,
-			"updated": 1683391618156,
+			"versionNonce": 953386134,
+			"updated": 1683395723461,
 			"isDeleted": false,
 			"groupIds": [
-				"CQxBakqo"
+				"zqFkAiCt"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "41ydeAg1"
+					"id": "giZ4thMS"
 				},
 				{
 					"type": "arrow",
-					"id": "tUCKfHuC"
+					"id": "ayOSzIyp"
 				}
 			],
 			"link": null,
@@ -2197,10 +1969,10 @@ Science-fiction ^K6McLnwr
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "OVJS8qf3",
+			"id": "FBXUrBFk",
 			"type": "text",
-			"x": 332.265625,
-			"y": -284,
+			"x": -776.3476562500001,
+			"y": 5,
 			"width": 5.859375,
 			"height": 12,
 			"angle": 0,
@@ -2214,10 +1986,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 58669,
+			"seed": 48051,
 			"version": 1,
-			"versionNonce": 537846921,
-			"updated": 1683391618156,
+			"versionNonce": 692848234,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -2229,10 +2001,10 @@ Science-fiction ^K6McLnwr
 			"lineHeight": 1.2
 		},
 		{
-			"id": "RdazapNn",
+			"id": "sZMfGxLq",
 			"type": "ellipse",
-			"x": 396.71875,
-			"y": -296,
+			"x": -870.8007812500001,
+			"y": -32,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -2246,23 +2018,23 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 3740,
+			"seed": 92233,
 			"version": 1,
-			"versionNonce": 743857412,
-			"updated": 1683391618156,
+			"versionNonce": 527145011,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [
-				"CQxBakqo"
+				"zqFkAiCt"
 			],
 			"boundElements": [],
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "R0EkGtPg",
+			"id": "RuJv0FWT",
 			"type": "ellipse",
-			"x": 426.71875,
-			"y": -242,
+			"x": -840.8007812500001,
+			"y": 22,
 			"width": 10,
 			"height": 10,
 			"angle": 0,
@@ -2276,26 +2048,26 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 13496,
+			"seed": 45110,
 			"version": 1,
-			"versionNonce": 835737381,
-			"updated": 1683391618156,
+			"versionNonce": 657340384,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [
-				"CQxBakqo"
+				"zqFkAiCt"
 			],
 			"boundElements": [
 				{
 					"type": "arrow",
-					"id": "NvGhm6d5"
+					"id": "474KVxP7"
 				},
 				{
 					"type": "arrow",
-					"id": "HTY3rmX3"
+					"id": "dbuyaCUg"
 				},
 				{
 					"type": "arrow",
-					"id": "Z2mMIWw9"
+					"id": "zJ1DRjSa"
 				}
 			],
 			"link": null,
@@ -2308,10 +2080,10 @@ Science-fiction ^K6McLnwr
 			"textAlign": "left",
 			"verticalAlign": "middle",
 			"baseline": 10,
-			"id": "yRACJvjV",
+			"id": "Xt5Ss2pY",
 			"type": "text",
-			"x": 441.71875,
-			"y": -242,
+			"x": -825.8007812500001,
+			"y": 22,
 			"width": 5.859375,
 			"height": 12,
 			"angle": 0,
@@ -2325,10 +2097,10 @@ Science-fiction ^K6McLnwr
 			"roundness": {
 				"type": 3
 			},
-			"seed": 11945,
+			"seed": 65500,
 			"version": 1,
-			"versionNonce": 155985942,
-			"updated": 1683391618157,
+			"versionNonce": 380123547,
+			"updated": 1683395723462,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -2338,854 +2110,6 @@ Science-fiction ^K6McLnwr
 			"originalText": "3",
 			"rawText": "3",
 			"lineHeight": 1.2
-		},
-		{
-			"id": "XJg5sShk",
-			"type": "rectangle",
-			"x": 714.4335937500001,
-			"y": -394,
-			"width": 99.1015625,
-			"height": 38,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#000005b3",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 84124,
-			"version": 1,
-			"versionNonce": 622206740,
-			"updated": 1683391618157,
-			"isDeleted": false,
-			"groupIds": [
-				"Ain6R1Ks"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "8QsVUeUH"
-				}
-			],
-			"link": "[[Metadata/Media metadata/Authors/Andy Weir.md]]",
-			"locked": false
-		},
-		{
-			"text": "Andy Weir",
-			"fontSize": 15,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 15,
-			"id": "8QsVUeUH",
-			"type": "text",
-			"x": 724.4335937500001,
-			"y": -384,
-			"width": 79.1015625,
-			"height": 18,
-			"angle": 0,
-			"strokeColor": "#95c7f3ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 51911,
-			"version": 1,
-			"versionNonce": 87195402,
-			"updated": 1683391618157,
-			"isDeleted": false,
-			"groupIds": [
-				"Ain6R1Ks"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "XJg5sShk",
-			"originalText": "Andy Weir",
-			"rawText": "Andy Weir",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "qenmb3rG",
-			"type": "ellipse",
-			"x": 704.4335937500001,
-			"y": -380,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 40253,
-			"version": 1,
-			"versionNonce": 48445402,
-			"updated": 1683391618157,
-			"isDeleted": false,
-			"groupIds": [
-				"Ain6R1Ks"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "NZEMG3qO",
-			"type": "ellipse",
-			"x": 743.9843750000001,
-			"y": -404,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 24694,
-			"version": 1,
-			"versionNonce": 61329273,
-			"updated": 1683391618157,
-			"isDeleted": false,
-			"groupIds": [
-				"Ain6R1Ks"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "xYXcgr1w"
-				},
-				{
-					"type": "arrow",
-					"id": "LkHDtuif"
-				},
-				{
-					"type": "arrow",
-					"id": "HTY3rmX3"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "3",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "L4DphPHe",
-			"type": "text",
-			"x": 758.9843750000001,
-			"y": -404,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 76451,
-			"version": 1,
-			"versionNonce": 174003467,
-			"updated": 1683391618158,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "3",
-			"rawText": "3",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "Mevh2RNS",
-			"type": "ellipse",
-			"x": 773.9843750000001,
-			"y": -356,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 19652,
-			"version": 1,
-			"versionNonce": 996193990,
-			"updated": 1683391618158,
-			"isDeleted": false,
-			"groupIds": [
-				"Ain6R1Ks"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "qWwLDojw",
-			"type": "rectangle",
-			"x": 705.6445312500001,
-			"y": -316.5,
-			"width": 116.6796875,
-			"height": 38,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#000005b3",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 54947,
-			"version": 1,
-			"versionNonce": 611172906,
-			"updated": 1683391618158,
-			"isDeleted": false,
-			"groupIds": [
-				"fj1YuuC1"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "47BgDQbZ"
-				}
-			],
-			"link": "[[Metadata/Media metadata/Authors/James Clear.md]]",
-			"locked": false
-		},
-		{
-			"text": "James Clear",
-			"fontSize": 15,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 15,
-			"id": "47BgDQbZ",
-			"type": "text",
-			"x": 715.6445312500001,
-			"y": -306.5,
-			"width": 96.6796875,
-			"height": 18,
-			"angle": 0,
-			"strokeColor": "#95c7f3ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 69951,
-			"version": 1,
-			"versionNonce": 963161689,
-			"updated": 1683391618158,
-			"isDeleted": false,
-			"groupIds": [
-				"fj1YuuC1"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "qWwLDojw",
-			"originalText": "James Clear",
-			"rawText": "James Clear",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "dzMzL2gZ",
-			"type": "ellipse",
-			"x": 695.6445312500001,
-			"y": -302.5,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 11736,
-			"version": 1,
-			"versionNonce": 513770034,
-			"updated": 1683391618158,
-			"isDeleted": false,
-			"groupIds": [
-				"fj1YuuC1"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "EjaEkRPF",
-			"type": "ellipse",
-			"x": 743.9843750000001,
-			"y": -326.5,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 30420,
-			"version": 1,
-			"versionNonce": 99436860,
-			"updated": 1683391618158,
-			"isDeleted": false,
-			"groupIds": [
-				"fj1YuuC1"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "u7mmLo0b"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "1",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "NtCZtIvY",
-			"type": "text",
-			"x": 758.9843750000001,
-			"y": -326.5,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 34025,
-			"version": 1,
-			"versionNonce": 593662244,
-			"updated": 1683391618159,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "1",
-			"rawText": "1",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "OfB0Vyin",
-			"type": "ellipse",
-			"x": 773.9843750000001,
-			"y": -278.5,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 36359,
-			"version": 1,
-			"versionNonce": 679894971,
-			"updated": 1683391618159,
-			"isDeleted": false,
-			"groupIds": [
-				"fj1YuuC1"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "zgYpUjeX",
-			"type": "rectangle",
-			"x": 666.0937500000001,
-			"y": -239,
-			"width": 195.78125,
-			"height": 38,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#000005b3",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 1740,
-			"version": 1,
-			"versionNonce": 307012902,
-			"updated": 1683391618160,
-			"isDeleted": false,
-			"groupIds": [
-				"gzWUYbqv"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "HMCWB5hn"
-				}
-			],
-			"link": "[[Metadata/Media metadata/Genres/Personal development.md]]",
-			"locked": false
-		},
-		{
-			"text": "Personal development",
-			"fontSize": 15,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 15,
-			"id": "HMCWB5hn",
-			"type": "text",
-			"x": 676.0937500000001,
-			"y": -229,
-			"width": 175.78125,
-			"height": 18,
-			"angle": 0,
-			"strokeColor": "#95c7f3ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 83707,
-			"version": 1,
-			"versionNonce": 269030792,
-			"updated": 1683391618160,
-			"isDeleted": false,
-			"groupIds": [
-				"gzWUYbqv"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "zgYpUjeX",
-			"originalText": "Personal development",
-			"rawText": "Personal development",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "0J7D4SCH",
-			"type": "ellipse",
-			"x": 656.0937500000001,
-			"y": -225,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 64368,
-			"version": 1,
-			"versionNonce": 655247006,
-			"updated": 1683391618160,
-			"isDeleted": false,
-			"groupIds": [
-				"gzWUYbqv"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "BVRJ1w9c",
-			"type": "ellipse",
-			"x": 743.9843750000001,
-			"y": -249,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 73841,
-			"version": 1,
-			"versionNonce": 167886994,
-			"updated": 1683391618160,
-			"isDeleted": false,
-			"groupIds": [
-				"gzWUYbqv"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "13GtC9BJ"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "1",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "aD8IvEEp",
-			"type": "text",
-			"x": 758.9843750000001,
-			"y": -249,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 26648,
-			"version": 1,
-			"versionNonce": 772213174,
-			"updated": 1683391618160,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "1",
-			"rawText": "1",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "5fFlH6GK",
-			"type": "ellipse",
-			"x": 773.9843750000001,
-			"y": -201,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 57498,
-			"version": 1,
-			"versionNonce": 960243777,
-			"updated": 1683391618160,
-			"isDeleted": false,
-			"groupIds": [
-				"gzWUYbqv"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "UDzYEGRy",
-			"type": "rectangle",
-			"x": 688.0664062500001,
-			"y": -161.5,
-			"width": 151.8359375,
-			"height": 38,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#000005b3",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 79605,
-			"version": 1,
-			"versionNonce": 867280468,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [
-				"h4prlZvX"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "K6McLnwr"
-				}
-			],
-			"link": "[[Metadata/Media metadata/Genres/Science-fiction.md]]",
-			"locked": false
-		},
-		{
-			"text": "Science-fiction",
-			"fontSize": 15,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 15,
-			"id": "K6McLnwr",
-			"type": "text",
-			"x": 698.0664062500001,
-			"y": -151.5,
-			"width": 131.8359375,
-			"height": 18,
-			"angle": 0,
-			"strokeColor": "#95c7f3ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 94808,
-			"version": 1,
-			"versionNonce": 2139231,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [
-				"h4prlZvX"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "UDzYEGRy",
-			"originalText": "Science-fiction",
-			"rawText": "Science-fiction",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "7FNpJHgR",
-			"type": "ellipse",
-			"x": 678.0664062500001,
-			"y": -147.5,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 972,
-			"version": 1,
-			"versionNonce": 54033048,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [
-				"h4prlZvX"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "n7Eu6fA4",
-			"type": "ellipse",
-			"x": 743.9843750000001,
-			"y": -171.5,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 20456,
-			"version": 1,
-			"versionNonce": 422116557,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [
-				"h4prlZvX"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "Hr8S4D0M"
-				},
-				{
-					"type": "arrow",
-					"id": "OvrV6fSV"
-				},
-				{
-					"type": "arrow",
-					"id": "Z2mMIWw9"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "3",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 10,
-			"id": "z4sdzVu4",
-			"type": "text",
-			"x": 758.9843750000001,
-			"y": -171.5,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 65808,
-			"version": 1,
-			"versionNonce": 385620433,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "3",
-			"rawText": "3",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "ndnyGdCJ",
-			"type": "ellipse",
-			"x": 773.9843750000001,
-			"y": -123.5,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 33635,
-			"version": 1,
-			"versionNonce": 60820726,
-			"updated": 1683391618161,
-			"isDeleted": false,
-			"groupIds": [
-				"h4prlZvX"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
 		}
 	],
 	"appState": {
@@ -3203,10 +2127,10 @@ Science-fiction ^K6McLnwr
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 620.8708639705881,
-		"scrollY": 793.4972426470588,
+		"scrollX": 1138.230370885622,
+		"scrollY": 1326.2191769726837,
 		"zoom": {
-			"value": 0.8500000000000001
+			"value": 0.3689760832395405
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

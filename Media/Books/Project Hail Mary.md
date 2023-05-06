@@ -2,12 +2,14 @@
 Type: book
 
 Pages: 
-Published-date: 
+Published-date: 2021
 Read-date:
 Consumed-as: audiobook
 Read-by: Ray Porter
 Tags: 
+Cover: https://s1.adlibris.com/images/58884305/project-hail-mary.jpg
 ---
+`="![BookCover|250](" + this.Cover + ")"`
 [[Books]]
 Author:: [[Andy Weir]]
 Genre:: [[Science-fiction]]
