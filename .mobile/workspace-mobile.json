@@ -25,7 +25,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dashboard/Todo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -315,6 +315,9 @@
   },
   "active": "aacdb0ebac66a5a4",
   "lastOpenFiles": [
+    "Dashboard/Kanban.md",
+    "Dashboard/Todo.md",
+    "Templates/Daily note template.md",
     "MOCs/Books.md",
     "MOCs/Movies.md",
     "MOCs/Cooking recipes.md",
@@ -327,11 +330,9 @@
     "Metadata/Media metadata/Book metadata/Authors/Andy Weir.md",
     "Media/Books/Artemis.md",
     "Metadata/Media metadata/Genres/Science-fiction.md",
-    "Dashboard/Todo.md",
     "Dashboard/Untitled.md",
     "Dashboard/Test.md",
     "Dashboard/Test canvas.canvas",
-    "Dashboard/Kanban.md",
     "Periodic notes/Daily notes/2023-05-06.md",
     "Media/Books/Chapterhouse Dune.md",
     "Metadata/Recipe metadata/Baking metadata/Pancake.md",
@@ -342,7 +343,6 @@
     "Metadata/Recipe metadata/Baking metadata",
     "Recipes/Baking/Kärleksmums.md",
     "OS Plugins/Mac/Mac Plugins.md",
-    "Templates/Book template.md",
     "Metadata/Media metadata/Book metadata",
     "Templates/Media templates",
     "Metadata/Media metadata/Book metadata/Book series",

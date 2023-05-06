@@ -8,6 +8,8 @@ Created-date: <% tp.date.now("YYYY-MM-DD") %>
 
 # Notes
 
+## Ideas
+Idea::
 
 ## Todos
 - [ ] 
