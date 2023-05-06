@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Todo.md",
+                "file": "Book idea/Book idea Outline.md",
                 "mode": "preview",
                 "source": false
               }
@@ -32,6 +32,42 @@
           },
           {
             "id": "0b741a0c6be83ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metadata/Media metadata/Genres/Personal development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "339981100aab68a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metadata/Media metadata/Genres/Existential horror.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06b50d536c357697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metadata/Media metadata/Genres/Cosmic horror.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea3b66d25ffee4fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -133,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "0a80041f9e186d55",
@@ -325,8 +361,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0b741a0c6be83ae5",
+  "active": "ea3b66d25ffee4fa",
   "lastOpenFiles": [
+    "Metadata/Media metadata/Genres/Philosophy.md",
+    "Metadata/Media metadata/Genres/Cosmic horror.md",
+    "Metadata/Media metadata/Genres/Existential horror.md",
+    "Metadata/Media metadata/Genres/Personal development.md",
+    "excalibrain.md",
     "Book idea/Book idea Outline.md",
     "Dashboard/Todo.md",
     "Book idea",
@@ -337,7 +378,6 @@
     "MOCs/Cooking recipes.md",
     "Templates/People template.md",
     "Media/Books/Dune.md",
-    "excalibrain.md",
     "Metadata/Media metadata/Book metadata/Authors/Frank Herbert.md",
     "Media/Books/Project Hail Mary.md",
     "Media/Books/The Martian.md",
@@ -351,10 +391,7 @@
     "Metadata/Recipe metadata/Baking metadata/Pancake.md",
     "Media/Books/Hyperion.md",
     "Recipes/Baking/Toms Pannkakor.md",
-    "Metadata/Recipe metadata/Baking metadata/Cake.md",
-    "Metadata/Recipe metadata/Cooking metadata/Italian-food.md",
     "Metadata/Recipe metadata/Baking metadata",
-    "Recipes/Baking/Kärleksmums.md",
     "Metadata/Media metadata/Book metadata",
     "Templates/Media templates",
     "Metadata/Media metadata/Book metadata/Book series",

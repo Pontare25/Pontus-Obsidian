@@ -39,10 +39,18 @@ An alien race so beyond humanity, so beyond type 1 and 2 civilizations that they
 [[Dyson Sphere]]
 [[Saturn hexagon]]
 [[Saturn rings]]
+[[Self-replication]]
+[[Grey goo]]
+[[Doubling time]]
 
+## Youtube
 [[CGP Grey - Hexagon video]]
 [[Kurzgesagt - dyson swarm video]]
 [[Kurzgesagt kardishev scale]]
+[[Kurzgesagt rail gun]]
+[[Kurzgesagt skyhook]]
+[[Kurzgesagt stellar engine]]
+
 
 ## Books
 [[Three body problem]] human groups that feel like humanity has rotted earth's potential. Wishing for humanity's extinction and for another alien race to take over. 
@@ -52,3 +60,5 @@ An alien race so beyond humanity, so beyond type 1 and 2 civilizations that they
 [[Project Hail Mary]] how humanity would act in the case of potential complete annihilation
 
 [[Artemis]] how African countries might become humanity's center for regular space launches. And how a lunar base might be established quickly. 
+
+[[Existential horror]] [[Call of Cthulu]]

@@ -135,13 +135,17 @@
   "hierarchyLinkStyles": {},
   "navigationHistory": [
     "Periodic notes/Daily notes/2023-05-05.md",
-    "Dashboard/Todo.md",
     "Meetings/Test meeting.md",
     "Metadata/Media metadata/Genres/Science-fiction.md",
     "Templates/Meeting template.md",
     "Metadata/Media metadata/Book metadata/Authors/Frank Herbert.md",
     "Media/Books/Dune.md",
-    "MOCs/Books.md"
+    "MOCs/Books.md",
+    "Dashboard/Kanban.md",
+    "Dashboard/Untitled.md",
+    "Book idea/Outline.md",
+    "Dashboard/Todo.md",
+    "Book idea/Book idea Outline.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
