@@ -84,14 +84,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Baking/Kärleksmums.md",
+                "file": "Metadata/Recipe metadata/Cooking metadata/Italian-food.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c02c6c369501f3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metadata/Recipe metadata/Baking metadata/Cake.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b640616058706181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/Todo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "0a80041f9e186d55",
@@ -217,7 +241,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Baking/Kärleksmums.md",
+            "file": "Dashboard/Todo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -234,7 +258,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Baking/Kärleksmums.md",
+            "file": "Dashboard/Todo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -246,7 +270,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Baking/Kärleksmums.md"
+            "file": "Dashboard/Todo.md"
           }
         }
       },
@@ -275,7 +299,6 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -284,11 +307,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1fe8d04c73d10b49",
+  "active": "b640616058706181",
   "lastOpenFiles": [
+    "Metadata/Recipe metadata/Baking metadata/Pancake.md",
     "Recipes/Baking/Toms Pannkakor.md",
-    "Recipes/Baking/Kärleksmums.md",
     "MOCs/Cooking recipes.md",
+    "Metadata/Recipe metadata/Baking metadata/Cake.md",
+    "Metadata/Recipe metadata/Cooking metadata/Italian-food.md",
+    "Metadata/Recipe metadata/Baking metadata",
+    "Recipes/Baking/Kärleksmums.md",
     "OS Plugins/Mac/Mac Plugins.md",
     "Media/Books/Artemis.md",
     "MOCs/Books.md",
@@ -312,16 +339,12 @@
     "Metadata/Media metadata/Book metadata/Authors/Dan Simmons.md",
     "Metadata/Media metadata/Book metadata/Authors/James Clear.md",
     "Metadata/Media metadata/Book metadata/Authors/Andy Weir.md",
-    "Metadata/Media metadata/Book metadata/Authors/Frank Herbert.md",
     "Metadata/Media metadata/Book metadata/Authors",
-    "Media/Books/Dune.md",
-    "Books/Atomic Habits.md",
     "Templates/Recipe templates",
     "Programming/Attachements",
     "Programming",
     "Metadata/Media metadata/Authors",
     "Metadata/Media metadata",
-    "Metadata/Recipe metadata/Cooking metadata",
     "Programming/Attachements/sql joins.png"
   ]
 }
