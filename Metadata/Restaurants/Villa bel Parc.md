@@ -1,0 +1,4 @@
+---
+Type: restaurant
+City: Gothenburg
+---
