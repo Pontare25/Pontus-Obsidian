@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Todo.md",
+                "file": "Periodic notes/Daily notes/2023-05-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -295,7 +295,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard/Todo.md",
+            "file": "Periodic notes/Daily notes/2023-05-07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -312,7 +312,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard/Todo.md",
+            "file": "Periodic notes/Daily notes/2023-05-07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -324,7 +324,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard/Todo.md"
+            "file": "Periodic notes/Daily notes/2023-05-07.md"
           }
         }
       },
@@ -363,13 +363,14 @@
   },
   "active": "ea3b66d25ffee4fa",
   "lastOpenFiles": [
+    "Dashboard/Todo.md",
+    "Periodic notes/Daily notes/2023-05-07.md",
     "Metadata/Media metadata/Genres/Philosophy.md",
     "Metadata/Media metadata/Genres/Cosmic horror.md",
     "Metadata/Media metadata/Genres/Existential horror.md",
     "Metadata/Media metadata/Genres/Personal development.md",
     "excalibrain.md",
     "Book idea/Book idea Outline.md",
-    "Dashboard/Todo.md",
     "Book idea",
     "Dashboard/Kanban.md",
     "Templates/Daily note template.md",
@@ -390,7 +391,6 @@
     "Media/Books/Chapterhouse Dune.md",
     "Metadata/Recipe metadata/Baking metadata/Pancake.md",
     "Media/Books/Hyperion.md",
-    "Recipes/Baking/Toms Pannkakor.md",
     "Metadata/Recipe metadata/Baking metadata",
     "Metadata/Media metadata/Book metadata",
     "Templates/Media templates",
