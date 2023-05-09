@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/Todo.md",
+                "file": "Periodic notes/Daily notes/2023-05-09.md",
                 "mode": "source",
                 "source": false
               }
@@ -425,7 +425,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Dashboard/Todo.md",
+            "file": "Periodic notes/Daily notes/2023-05-09.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -442,7 +442,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Dashboard/Todo.md",
+            "file": "Periodic notes/Daily notes/2023-05-09.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -454,7 +454,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Dashboard/Todo.md"
+            "file": "Periodic notes/Daily notes/2023-05-09.md"
           }
         }
       },
@@ -493,6 +493,8 @@
   },
   "active": "aacdb0ebac66a5a4",
   "lastOpenFiles": [
+    "Dashboard/Todo.md",
+    "Periodic notes/Daily notes/2023-05-09.md",
     "Periodic notes/Daily notes/2023-05-07.md",
     "Metadata/People metadata/Dad.md",
     "excalibrain.md",
@@ -517,8 +519,6 @@
     "Metadata/People metadata/Chaplin.md",
     "Metadata/People metadata/Salomons.md",
     "Metadata/People metadata/Lilly.md",
-    "Metadata/People metadata/Miriam Salomons Celbrot.md",
-    "Metadata/People metadata/Klasse Salomons Celbrot.md",
     "Metadata/People metadata",
     "Metadata/Restaurants",
     "Metadata/Activity metadata",
