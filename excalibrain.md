@@ -12,17 +12,15 @@ tags: [excalidraw]
 ---
 
 # Text Elements
-Malin Jademyr ^fQr0YfJh
+🚀 To get started
+select a document using the search in the top left or
+open a document in another pane.
 
-1 ^rT5Sa4aM
+✨ For the best experience enable 'Open in adjacent pane'
+in Excalidraw settings under 'Links and Transclusion'.
 
-People ^r0eOzdIp
-
-17 ^Dlmi4PU1
-
-[[Metadata/People metadata/Malin Jademyr.md]] ^1clyiS2h
-
-[[People]] ^ZS6ta9cv
+⚠ ExcaliBrain may need to wait for DataView to initialize its index.
+This can take up to a few minutes after starting Obsidian. ^Wl1598Tj
 
 %%
 # Drawing
@@ -33,471 +31,40 @@ People ^r0eOzdIp
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.26",
 	"elements": [
 		{
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-26.682806369096664,
-					142.3083006351822
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "L4vQhy9P",
-				"focus": -3.925970246231275e-17,
-				"gap": 4
-			},
-			"endBinding": {
-				"elementId": "ZM8TXrdL",
-				"focus": -3.925970246231275e-17,
-				"gap": 4
-			},
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"id": "Uv1P5llp",
-			"type": "arrow",
-			"x": 13.341403184548332,
-			"y": -2.154150317591103,
-			"width": 26.682806369096664,
-			"height": 142.3083006351822,
-			"angle": 0,
-			"strokeColor": "#696969FF",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 76486,
-			"version": 1,
-			"versionNonce": 369588299,
-			"updated": 1683475093409,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "1clyiS2h",
-			"type": "rectangle",
-			"x": -124.2578125,
-			"y": -72,
-			"width": 248.515625,
-			"height": 56,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#C49A13FF",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 36302,
-			"version": 1,
-			"versionNonce": 741334053,
-			"updated": 1683475093405,
-			"isDeleted": false,
-			"groupIds": [
-				"rqsUFEvW"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "fQr0YfJh"
-				}
-			],
-			"link": "[[Metadata/People metadata/Malin Jademyr.md]]",
-			"locked": false
-		},
-		{
-			"text": "Malin Jademyr",
-			"fontSize": 30,
-			"fontFamily": 3,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 28,
-			"id": "fQr0YfJh",
 			"type": "text",
-			"x": -114.2578125,
-			"y": -62,
-			"width": 228.515625,
-			"height": 36,
-			"angle": 0,
-			"strokeColor": "#000000ff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 53709,
 			"version": 1,
-			"versionNonce": 520836934,
-			"updated": 1683475093405,
+			"versionNonce": 821840877,
 			"isDeleted": false,
-			"groupIds": [
-				"rqsUFEvW"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "1clyiS2h",
-			"originalText": "Malin Jademyr",
-			"rawText": "Malin Jademyr",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "D6oa7usW",
-			"type": "ellipse",
-			"x": -134.2578125,
-			"y": -49,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 76166,
-			"version": 1,
-			"versionNonce": 592386193,
-			"updated": 1683475093405,
-			"isDeleted": false,
-			"groupIds": [
-				"rqsUFEvW"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "zd2gkzyW",
-			"type": "ellipse",
-			"x": -20,
-			"y": -82,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 21767,
-			"version": 1,
-			"versionNonce": 188249639,
-			"updated": 1683475093405,
-			"isDeleted": false,
-			"groupIds": [
-				"rqsUFEvW"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "L4vQhy9P",
-			"type": "ellipse",
-			"x": 10,
-			"y": -16,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 80861,
-			"version": 1,
-			"versionNonce": 168009125,
-			"updated": 1683475093405,
-			"isDeleted": false,
-			"groupIds": [
-				"rqsUFEvW"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "Uv1P5llp"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "1",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 9,
-			"id": "rT5Sa4aM",
-			"type": "text",
-			"x": 25,
-			"y": -16,
-			"width": 5.859375,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 36694,
-			"version": 1,
-			"versionNonce": 630185478,
-			"updated": 1683475093406,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": null,
-			"originalText": "1",
-			"rawText": "1",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "ZS6ta9cv",
-			"type": "rectangle",
-			"x": -45.15625,
-			"y": 154,
-			"width": 90.3125,
-			"height": 44,
-			"angle": 0,
-			"strokeColor": "#00000000",
-			"backgroundColor": "#ff000066",
+			"id": "Wl1598Tj",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 0,
+			"roughness": 1,
 			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 61249,
-			"version": 1,
-			"versionNonce": 738064746,
-			"updated": 1683475093408,
-			"isDeleted": false,
-			"groupIds": [
-				"Y4675Bwj"
-			],
-			"boundElements": [
-				{
-					"type": "text",
-					"id": "r0eOzdIp"
-				}
-			],
-			"link": "[[People]]",
-			"locked": false
-		},
-		{
-			"text": "People",
+			"angle": 0,
+			"x": 0,
+			"y": 0,
+			"strokeColor": "#ffffffff",
+			"backgroundColor": "transparent",
+			"width": 797.197265625,
+			"height": 216,
+			"seed": 2156,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1683896319745,
+			"link": null,
+			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 3,
+			"text": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"rawText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
 			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 19,
-			"id": "r0eOzdIp",
-			"type": "text",
-			"x": -35.15625,
-			"y": 164,
-			"width": 70.3125,
-			"height": 24,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 92994,
-			"version": 1,
-			"versionNonce": 647912678,
-			"updated": 1683475093408,
-			"isDeleted": false,
-			"groupIds": [
-				"Y4675Bwj"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
-			"containerId": "ZS6ta9cv",
-			"originalText": "People",
-			"rawText": "People",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "uZigt6sO",
-			"type": "ellipse",
-			"x": -55.15625,
-			"y": 171,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 23331,
-			"version": 1,
-			"versionNonce": 88850460,
-			"updated": 1683475093408,
-			"isDeleted": false,
-			"groupIds": [
-				"Y4675Bwj"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
-		},
-		{
-			"id": "ZM8TXrdL",
-			"type": "ellipse",
-			"x": -20,
-			"y": 144,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 48194,
-			"version": 1,
-			"versionNonce": 817552265,
-			"updated": 1683475093408,
-			"isDeleted": false,
-			"groupIds": [
-				"Y4675Bwj"
-			],
-			"boundElements": [
-				{
-					"type": "arrow",
-					"id": "Uv1P5llp"
-				}
-			],
-			"link": null,
-			"locked": false
-		},
-		{
-			"text": "17",
-			"fontSize": 10,
-			"fontFamily": 3,
-			"textAlign": "left",
-			"verticalAlign": "middle",
-			"baseline": 9,
-			"id": "Dlmi4PU1",
-			"type": "text",
-			"x": -5,
-			"y": 144,
-			"width": 11.71875,
-			"height": 12,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "#ffffffff",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 82327,
-			"version": 1,
-			"versionNonce": 481450399,
-			"updated": 1683475093409,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": null,
-			"locked": false,
+			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "17",
-			"rawText": "17",
-			"lineHeight": 1.2
-		},
-		{
-			"id": "0tMTTYmz",
-			"type": "ellipse",
-			"x": 10,
-			"y": 198,
-			"width": 10,
-			"height": 10,
-			"angle": 0,
-			"strokeColor": "#ffffffff",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 97600,
-			"version": 1,
-			"versionNonce": 80426073,
-			"updated": 1683475093409,
-			"isDeleted": false,
-			"groupIds": [
-				"Y4675Bwj"
-			],
-			"boundElements": [],
-			"link": null,
-			"locked": false
+			"originalText": "🚀 To get started\nselect a document using the search in the top left or\nopen a document in another pane.\n\n✨ For the best experience enable 'Open in adjacent pane'\nin Excalidraw settings under 'Links and Transclusion'.\n\n⚠ ExcaliBrain may need to wait for DataView to initialize its index.\nThis can take up to a few minutes after starting Obsidian.",
+			"lineHeight": 1.2,
+			"baseline": 211
 		}
 	],
 	"appState": {
@@ -515,10 +82,10 @@ People ^r0eOzdIp
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 158.57142857142856,
-		"scrollY": 269.85714285714283,
+		"scrollX": 215,
+		"scrollY": 466,
 		"zoom": {
-			"value": 1.4000000000000001
+			"value": 1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

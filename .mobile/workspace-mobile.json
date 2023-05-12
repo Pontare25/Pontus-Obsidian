@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic notes/Daily notes/2023-05-11.md",
+                "file": "Periodic notes/Daily notes/2023-05-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -425,7 +425,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-11.md",
+            "file": "Periodic notes/Daily notes/2023-05-12.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -442,7 +442,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-11.md",
+            "file": "Periodic notes/Daily notes/2023-05-12.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -454,7 +454,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Periodic notes/Daily notes/2023-05-11.md"
+            "file": "Periodic notes/Daily notes/2023-05-12.md"
           }
         }
       },
@@ -493,8 +493,9 @@
   },
   "active": "aacdb0ebac66a5a4",
   "lastOpenFiles": [
-    "Periodic notes/Daily notes/2023-05-09.md",
     "Periodic notes/Daily notes/2023-05-11.md",
+    "Periodic notes/Daily notes/2023-05-12.md",
+    "Periodic notes/Daily notes/2023-05-09.md",
     "Dashboard/Todo.md",
     "Periodic notes/Daily notes/2023-05-07.md",
     "Metadata/People metadata/Dad.md",
@@ -518,7 +519,6 @@
     "Templates/People template.md",
     "Metadata/People metadata/Cahlin.md",
     "Metadata/People metadata/Chaplin.md",
-    "Metadata/People metadata/Salomons.md",
     "Metadata/People metadata",
     "Metadata/Restaurants",
     "Metadata/Activity metadata",
