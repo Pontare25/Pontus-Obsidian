@@ -11,12 +11,26 @@
             "id": "b860df7dc9f40a6b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalibrain.md"
+                "file": "Home/Pool schema.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "692135e35950e750"
+          },
+          {
+            "id": "18c4c1b639efbe16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dumb ideas/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
             "id": "aacdb0ebac66a5a4",
@@ -311,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "0a80041f9e186d55",
@@ -341,7 +355,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "excalibrain.md",
+                "file": "Home/Pool schema.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -396,7 +410,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Pool",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -425,7 +439,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "b05962e691d58708",
@@ -437,7 +451,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Powerful websites/Repairclinic.com.md",
+            "file": "Dumb ideas/Links.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -454,7 +468,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Powerful websites/Repairclinic.com.md",
+            "file": "Dumb ideas/Links.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -466,7 +480,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Powerful websites/Repairclinic.com.md"
+            "file": "Dumb ideas/Links.md"
           }
         }
       },
@@ -503,8 +517,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "229224d50a682eea",
+  "active": "ef36a4a839738f35",
   "lastOpenFiles": [
+    "Home/Pool schema.md",
+    "Dumb ideas/Links.md",
+    "Dumb ideas",
+    "Home/Pool-diagrM.svg",
+    "excalibrain.md",
     "Powerful websites",
     "Periodic notes/Daily notes/2023-05-12.md",
     "Powerful websites/Repairclinic.com.md",
@@ -514,7 +533,6 @@
     "Dashboard/Todo.md",
     "Periodic notes/Daily notes/2023-05-07.md",
     "Metadata/People metadata/Dad.md",
-    "excalibrain.md",
     "Metadata/People metadata/Malin Jademyr.md",
     "Metadata/People metadata/Anna-Maria Lindahl.md",
     "Metadata/People metadata/Alexandra Gjörde.md",
@@ -531,7 +549,6 @@
     "Metadata/People metadata/Johan Cahlin.md",
     "Metadata/People metadata/Christian Cahlin.md",
     "Metadata/People metadata/Birgitta Cahlin.md",
-    "Templates/People template.md",
     "Metadata/People metadata",
     "Metadata/Restaurants",
     "Metadata/Activity metadata",
@@ -540,8 +557,6 @@
     "Metadata/Recipe metadata/Baking metadata",
     "Metadata/Media metadata/Book metadata",
     "Templates/Media templates",
-    "Metadata/Media metadata/Book metadata/Book series",
-    "Metadata/Media metadata/Book metadata/Authors",
     "Programming/Attachements/sql joins.png"
   ]
 }
