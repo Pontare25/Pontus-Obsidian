@@ -5,7 +5,7 @@ Type: baking-recipe
 Cooking-time:
 Meal-prep-friendly: No
 ---
-Baking-type:: [[Pancake]]
+Baking-type:: [[Pancake]], [[Brunch]]
 
 ## Ingredients
 - 3dl mjölk
