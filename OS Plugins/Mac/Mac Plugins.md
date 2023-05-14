@@ -1,10 +1,10 @@
 # Window management
-## Spectacles
+## Spectacles (replaced with Rectangle)
 Spectales is a free plugin tool for using commands to snap windows into place. 
 https://www.spectacleapp.com
 ## Rectangle
 Similar to Spectacles but also has support for drag and drop to manage windows. Obs! If you donwload in app store you have to pay. If you do it via the webpage it is free. 
-
+https://rectangleapp.com
 # Mac menu bar
 ## Hidden bar
 https://apps.apple.com/us/app/hidden-bar/id1452453066?mt=12
